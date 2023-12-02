@@ -1,0 +1,292 @@
+TransporterID	Protein_Name_generally	Experimental material_change	Endogenous_Metabolite_ID	Endogenous_Metabolite_Name
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00090	Glutamate
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00038	Taurine
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00032	Phosphocholine
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00028	Myo-inositol
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00016	Creatine
+DTD0034	Vesicular amine transporter 2	Identified using VMAT2-deficient mice	EM00009	Choline
+DTD0476	Glycoprotein-associated amino acid transporter b0, +AT1	Identified using Slc7a9 knockout mice	EM00018	Cystine
+DTD0468	Cationic amino acid transporter 2	Identified using Slc7a2 knockout mice	EM00073	Arginine
+DTD0463	Asc-type amino acid transporter 1	Identified using Slc7a10 knockout mice	EM00023	Glycine
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00219	Methylamine
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00190	M-hydroxyphenylpropionylsulfate
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00100	Oxalate
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00041	Trimethylamine
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00040	Trimethylamine-N-oxide
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00038	Taurine
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00028	Myo-inositol
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00024	Glycolate
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00012	Hippuric acid
+DTD0234	Anion exchange transporter	Identified using slc26a6 null mice	EM00010	Citrate
+DTD0103	Monocarboxylate transporter 12	Identified using Slc16a12 knockout rats	EM00064	Glutamine
+DTD0103	Monocarboxylate transporter 12	Identified using Slc16a12 knockout rats	EM00016	Creatine
+DTD0130	Excitatory amino acid transporter 2	Identified using SIRT5 knockout mice	EM00090	Glutamate
+DTD0023	Organic cation/carnitine transporter 2	Identified using OCTN2-defective JVS mice	EM00168	Acetyl-l-carnitine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00210	1-methylimidazoleacetate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00211	3-[3-(sulfooxy)phenyl]propanoic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00212	3-hydroxyhexanoate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00213	Equol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00214	Imidazole propionate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00215	Indoleacrylate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00216	Phenyllactate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00075	Pyridoxic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00189	N-delta-acetylornithine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00187	Succinylcarnitine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00186	Equol glucuronide
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00185	4-allylphenol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00184	Salicylate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00176	Beta-muricholate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00173	2-aminophenol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00169	Tetradecanedioate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00166	4-vinylphenol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00162	Mevalonate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00157	P-cresol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00155	Catechol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00154	2-oxindole-3-acetate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00153	Estrone sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00151	Decanedioate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00145	Flavin mononucleotide
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00138	Homostachydrine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00132	Indolin-2-one
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00131	Deoxycholate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00130	Cholic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00129	7-ketodeoxycholate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00123	P-cresol glucuronide
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00115	Stachydrine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00114	Hypotaurine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00107	Glucuronate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00105	Indolelactate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00101	Phenol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00098	Indole-3-carboxylic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00089	Ursodeoxycholate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00086	O-methylcatechol sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00085	2-hydroxydecanoate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00084	Dehydroepiandrosterone sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00080	Indoxyl sulfate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00078	Citrulline
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00069	Mannitol
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00059	Thymidine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00058	Sorbitol
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00056	Trigonelline
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00055	Serotonin
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00054	Sebacate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00049	Gentisate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00047	N-acetyltryptophan
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00043	Urate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00040	Trimethylamine-N-oxide
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00035	Pyridoxal
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00026	Indoleacetate
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00022	Deoxycarnitine
+DTD0025	Organic anion transporter 3	Identified using Oat3 knockout mice	EM00017	Creatinine
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00206	2-oxo-9-methylthiononanoic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00191	7-methylguanosine
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00179	Pongamoside A
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00167	Licuroside
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00141	Epicatechin 3-O-(3-O-methylgallate)
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00137	Dehydroascorbic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00136	9-o-acetylneuraminic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00128	7-hydroxyfluphenazine
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00119	9-amino-nonanoic acid
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00108	1-methylguanosine
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00010	Citrate
+DTD0025	Organic anion transporter 3	Identified using Oat3-deficient mice	EM00004	4-hydroxyphenylacetate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00196	N2,N2-Dimethylguanosine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00183	Indole lactic acid
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00175	Phenyl sulfate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00172	2-hydroxy-3-methylvalerate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00163	3-hydroxypropionate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00156	3-hydroxybutyrate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00150	Orotate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00127	3-methylcrotonylglycine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00113	3-hydroxyvalerate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00112	2-hydroxyisovalerate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00111	Hexanoylglycine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00110	Propionylglycine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00096	Phenylacetyl glycine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00094	N-acetylaspartate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00126	Alpha-ketoglutarate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00083	N-acetylglycine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00080	Indoxyl sulfate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00077	4-hydroxyphenyllactate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00075	Pyridoxic acid
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00074	Pantothenic acid
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00068	Methionine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00059	Thymidine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00057	Xanthurenic acid
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00043	Urate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00042	Uracil
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00031	4-hydroxyphenylpyruvate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00027	Kynurenine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00017	Creatinine
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00006	Benzoate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00004	4-hydroxyphenylacetate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00002	3-hydroxyisobutyrate
+DTD0024	Organic anion transporter 1	Identified using Oat1 knockout mice	EM00001	2-oxo-3-methylvalerate
+DTD0027	Urate anion exchanger 1	Identified using URAT1 knockout mice	EM00043	Urate
+DTD0012	Multidrug resistance-associated protein 3	Identified using Mrp3 knockout mice	EM00218	Glucuronide
+DTD0019	Sodium/taurocholate cotransporting polypeptide	Identified using mouse NASH model	EM00197	Bile acid unspecific
+DTD0266	Glucose transporter type 8	Identified using GLUT8-attenuated mice	EM00164	L-lactate
+DTD0107	Monocarboxylate transporter 4	Identified using MCT4-attenuated mice	EM00164	L-lactate
+DTD0249	Equilibrative nucleoside transporter 3	Identified using ENT3 knockout mice	EM00092	Adenosine
+DTD0170	Calcium-binding mitochondrial carrier protein Aralar1	Identified using ARALAR-deficient mice	EM00063	Aspartate
+DTD0170	Calcium-binding mitochondrial carrier protein Aralar1	Identified using ARALAR-deficient mice	EM00019	Lactate
+DTD0170	Calcium-binding mitochondrial carrier protein Aralar1	Identified using ARALAR-deficient mice	EM00014	Malate
+DTD0003	P-glycoprotein 1	Identified using isolated perfused rat liver	EM00161	Estradiol-17beta-glucuronide
+DTD0503	Organic anion transporting polypeptide 4C1	Identified using hSLCO4C1-expressing rat	EM00080	Indoxyl sulfate
+DTD0257	Glucose transporter type 2	Identified using diet-induced obese mice	EM00104	3,5-diiodo-l-thyronine
+DTD0116	Sodium-dependent phosphate transport protein 4	Identified using Aldh16a1 knockout mice	EM00043	Urate
+DTD0015	Multidrug resistance-associated protein 4	Identified using Aldh16a1 knockout mice	EM00043	Urate
+DTD0004	Breast cancer resistance protein	Identified using Abcg2 knockout mice	EM00080	Indoxyl sulfate
+DTD0004	Breast cancer resistance protein	Identified using Abcg2 knockout mice	EM00012	Hippuric acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00130	Cholic acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00079	Glycocholic acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00222	Trihydroxycoprostane
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00076	N-hexanoic acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00139	Eicosapentaenoic acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00081	Hexadecanedioic acid
+DTD0063	Adrenoleukodystrophy protein	Identified using Abcd1 Knockout mice	EM00033	Purine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00140	N-acetylmethionine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00075	Pyridoxic acid
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00064	Glutamine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00152	3-sulfinoalanine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00188	3-dehydro-d-glucose 6-phosphate
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00093	Xanthosine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00090	Glutamate
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00149	2-hydroxy-3-methyl-butyric acid
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00067	Adenosine monophosphate
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00066	Uridine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00075	Pyridoxic acid
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00177	Succinyladenosine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00099	N-acetylglutamate
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00140	N-acetylmethionine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00074	Pantothenic acid
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00120	N-valylphenylalanine
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00146	N-acetylcitrulline
+DTD0017	Multidrug resistance-associated protein 6	Identified using ABCC6-deficient mice	EM00106	Ile-Pro-Ile
+DTD0394	Riboflavin transporter 3	Identified using SLC52A2-knockdown drosophila melanogaster	EM00145	Flavin mononucleotide
+DTD0395	Riboflavin transporter 2	Identified using SLC52A3-knockdown drosophila melanogaster	EM00145	Flavin mononucleotide
+DTD0394	Riboflavin transporter 3	Identified using SLC52A2-knockdown drosophila melanogaster	EM00144	Flavin adenine dinucleotide
+DTD0395	Riboflavin transporter 2	Identified using SLC52A3-knockdown drosophila melanogaster	EM00144	Flavin adenine dinucleotide
+DTD0394	Riboflavin transporter 3	Identified using SLC52A2-knockdown drosophila melanogaster	EM00142	Riboflavin
+DTD0395	Riboflavin transporter 2	Identified using SLC52A3-knockdown drosophila melanogaster	EM00142	Riboflavin
+DTD0326	Sodium-coupled neutral amino acid transporter 1	Identified using SNAT1 knockout T-cells	EM00062	Alanine
+DTD0464	Cystine/glutamate transporter	Identified using SLC7A11-overexpressing cells	EM00126	Alpha-ketoglutarate
+DTD0464	Cystine/glutamate transporter	Identified using SLC7A11-overexpressing cells	EM00090	Glutamate
+DTD0460	Creatine transporter 1	Identified using SLC6a8-knockdown LvM3b cells	EM00170	Phosphocreatine
+DTD0445	Sodium- and chloride-dependent GABA transporter 2	Identified using SLC6A6 knockout DLD-1 and HeLa cells	EM00003	Gamma-aminobutyric acid
+DTD0131	Excitatory amino acid transporter 1	Identified using RPMI-8402 cell lines	EM00063	Aspartate
+DTD0010	Organic cation transporter 1	Identified using proximal tubule cells-OCT1h	EM00159	Prostaglandin F2 alpha
+DTD0010	Organic cation transporter 1	Identified using proximal tubule cells-OCT1h	EM00158	Prostaglandin E2
+DTD0167	Tricarboxylate transport protein	Identified using peripheral blood monocytic cells	EM00010	Citrate
+DTD0151	Organic cation/carnitine transporter 1	Identified using oocytes of xenopus laevis-OCTN1	EM00008	Carnitine
+DTD0142	Fly-like putative transporter 2	Identified using oocytes of xenopus laevis-OCT6	EM00082	L-carnitine
+DTD0127	Thiamine transporter 1	Identified using miR-155 Knockout MCF7 cells	EM00039	Thiamine
+DTD0178	Mitochondrial thiamine pyrophosphate carrier	Identified using miR-155 Knockout MCF7 cells	EM00039	Thiamine
+DTD0001	Multidrug resistance-associated protein 1	Identified using MATE1-overexpressing HEK293 cells	EM00050	Guanidine
+DTD0007	Multidrug and toxin extrusion protein 1	Identified using MATE1-overexpressing HEK293 cells	EM00017	Creatinine
+DTD0336	Sodium-coupled neutral amino acid transporter 9	Identified using MAC-T cells	EM00200	Amino acid unspecific
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00178	4-chloro-phenylalanine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00174	N1-acetylputrescine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00165	Fumarate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00126	Alpha-ketoglutarate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00124	Succinate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00118	N1,N12-diacetylspermine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00090	Glutamate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00078	Citrulline
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00073	Arginine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00071	Asparagine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00070	Ornithine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00064	Glutamine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00063	Aspartate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00062	Alanine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00045	Isocitrate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00037	Spermine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00036	Spermidine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00034	Putrescine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00030	Oxaloacetate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00029	N1-acetylspermine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00020	Proline
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00014	Malate
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00013	N1-acetylspermidine
+DTD0183	Mitochondrial glutamate carrier 1	Identified using SLC25A22 knockdown KRAS-mutant DLD1 cells	EM00010	Citrate
+DTD0372	Proton-coupled folate transporter	Identified using HeLa cells-PCFT	EM00171	3-iodothyronamine
+DTD0009	Organic cation transporter 3	Identified using HEK293 cells-OCT3	EM00134	Norepinephrine
+DTD0009	Organic cation transporter 3	Identified using HEK293 cells-OCT3	EM00061	Epinephrine
+DTD0009	Organic cation transporter 3	Identified using HEK293 cells-OCT3	EM00025	Histamine
+DTD0026	Organic anion transporter 4	Identified using HEK293 cells-OAT4	EM00075	Pyridoxic acid
+DTD0028	Multidrug and toxin extrusion protein 2	Identified using HEK293 cells-MATE2	EM00050	Guanidine
+DTD0028	Multidrug and toxin extrusion protein 2	Identified using HEK293 cells-MATE2	EM00039	Thiamine
+DTD0028	Multidrug and toxin extrusion protein 2	Identified using HEK293 cells-MATE2	EM00017	Creatinine
+DTD0016	Multidrug resistance-associated protein 5	Identified using HEK293 cells-ABCC5	EM00182	Octadecenylcarnitine
+DTD0252	Glucose transporter type 10	Identified using GLUT10 homology model	EM00197	Bile acid unspecific
+DTD0252	Glucose transporter type 10	Identified using GLUT10 homology model	EM00203	Lipid unspecific
+DTD0318	Proton-coupled amino acid transporter 1	Identified using COS-7 cells-PAT1	EM00005	Aminolevulinic acid
+DTD0533	Copper-transporting ATPase 2	Identified using ATP7B knockout cells	EM00087	Cytoplasmic copper
+DTD0051	ATP-binding cassette sub-family B member 5	Identified using ABCB5 knockdown G3361 melanoma cells	EM00207	Phospholipid degradation product unspecific
+DTD0051	ATP-binding cassette sub-family B member 5	Identified using ABCB5 knockdown G3361 melanoma cells	EM00208	Water-soluble metabolite unspecific
+DTD0051	ATP-binding cassette sub-family B member 5	Identified using ABCB5 knockdown G3361 melanoma cells	EM00147	Glycerophosphocholine
+DTD0051	ATP-binding cassette sub-family B member 5	Identified using ABCB5 knockdown G3361 melanoma cells	EM00117	Glycerophosphoethanolamine
+DTD0006	Organic cation transporter 2	Identified using ATCC CRL-1573 cells-OCT2h	EM00159	Prostaglandin F2 alpha
+DTD0006	Organic cation transporter 2	Identified using ATCC CRL-1573 cells-OCT2h	EM00158	Prostaglandin E2
+DTD0139	Organic cation transporter-like 3	Identified using xenopus laevis oocytes-hORCTL3	EM00043	Urate
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00072	Tryptophan
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00046	3-hydroxy-3-methylglutaric acid
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00066	Uridine
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00109	2-hydroxyvaleric acid
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00198	5-oxoproline
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00060	Glucose
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00078	Citrulline
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00093	Xanthosine
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00066	Uridine
+DTD0006	Organic cation transporter 2	Identified using the urine samples obtained from carriers of three SLC22A2 genotypes	EM00044	Xanthine
+DTD0500	Organic anion transporting polypeptide 2A1	Identified using thiazide-induced hyponatremia patients SLCO2A1 396 Ala/Thr/Glu variants	EM00158	Prostaglandin E2
+DTD0500	Organic anion transporting polypeptide 2A1	Identified using thiazide-induced hyponatremia patients SLCO2A1 396 Ala/Thr/Glu variants	EM00125	Tetranor-prostaglandin EM
+DTD0029	Organic anion transporting polypeptide 1A2	Identified using healthy people enrolled into 12-wk weight loss intervention	EM00197	Bile acid unspecific
+DTD0455	Sodium-dependent dopamine transporter	Identified using the adults with attention-deficit hyperactive disorder	EM00021	Dopamine
+DTD0020	Apical sodium-dependent bile acid transporter	Identified using actively drinking cirrhotic patients	EM00197	Bile acid unspecific
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00048	Caffeine
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00103	3,4-dihydroxyphenylglycol
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00097	3-hydroxypropanoic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00122	4-hydroxyhippuric acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00053	Resorcinol
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00148	Caffeic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00052	Dodecanoic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00148	Caffeic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00122	4-hydroxyhippuric acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00097	3-hydroxypropanoic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00053	Resorcinol
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00052	Dodecanoic acid
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00048	Caffeine
+DTD0002	Multidrug resistance-associated protein 2	Identified using people of ABCC2 haplotypes (rs717620, rs3740066, rs2273697)	EM00015	2-(3,4-dihydroxyphenyl)acetic acid
+DTD0453	Sodium/imino-acid transporter 1	Unclear experiment used for identifying this EM	EM00133	L-pipecolic acid
+DTD0453	Sodium/imino-acid transporter 1	Unclear experiment used for identifying this EM	EM00121	L-proline
+DTD0453	Sodium/imino-acid transporter 1	Unclear experiment used for identifying this EM	EM00007	Glycine betaine
+DTD0005	Organic anion transporter 2	Unclear experiment used for identifying this EM	EM00200	Amino acid unspecific
+DTD0056	Multidrug resistance-associated protein 7	Unclear experiment used for identifying this EM	EM00161	Estradiol-17beta-glucuronide
+DTD0057	Multidrug resistance-associated protein 8	Unclear experiment used for identifying this EM	EM00160	Leukotriene C4
+DTD0439	Niemann-Pick C1-like protein 1	Unclear experiment used for identifying this EM	EM00195	Lipoprotein unspecific
+DTD0113	Monocarboxylate transporter 9	Unclear experiment used for identifying this EM	EM00181	Acylcarnitine C5
+DTD0006	Organic cation transporter 2	Unclear experiment used for identifying this EM	EM00091	1-methyl-4-phenylpyridinium
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00143	LysoPC(18:0)
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00180	LysoPC(20:1)
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00102	Sphinganine
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00116	Phytosphingosine
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00008	Carnitine
+DTD0180	Carnitine/acylcarnitine translocase	Unclear experiment used for identifying this EM	EM00011	Palmitoylcarnitine
+DTD0030	Organic anion transporting polypeptide 1B3	Unclear experiment used for identifying this EM	EM00209	Hormone metabolite unspecific
+DTD0008	Organic anion transporting polypeptide 1B1	Unclear experiment used for identifying this EM	EM00209	Hormone metabolite unspecific
+DTD0251	Glucose transporter type 1	Unclear experiment used for identifying this EM	EM00156	3-hydroxybutyrate
+DTD0014	Bile salt export pump	Unclear experiment used for identifying this EM	EM00161	Estradiol-17beta-glucuronide
+DTD0030	Organic anion transporting polypeptide 1B3	Unclear experiment used for identifying this EM	EM00204	Triiodothyronine
+DTD0030	Organic anion transporting polypeptide 1B3	Unclear experiment used for identifying this EM	EM00223	Thyroxine
+DTD0008	Organic anion transporting polypeptide 1B1	Unclear experiment used for identifying this EM	EM00204	Triiodothyronine
+DTD0008	Organic anion transporting polypeptide 1B1	Unclear experiment used for identifying this EM	EM00223	Thyroxine
+DTD0030	Organic anion transporting polypeptide 1B3	Unclear experiment used for identifying this EM	EM00205	Bile salt unspecific
+DTD0008	Organic anion transporting polypeptide 1B1	Unclear experiment used for identifying this EM	EM00205	Bile salt unspecific
+DTD0052	ATP-binding cassette sub-family B member 6	Unclear experiment used for identifying this EM	EM00095	Porphyrin
+DTD0006	Organic cation transporter 2	Unclear experiment used for identifying this EM	EM00072	Tryptophan
+DTD0028	Multidrug and toxin extrusion protein 2	Unclear experiment used for identifying this EM	EM00065	Testosterone
+DTD0258	Glucose transporter type 3	Unclear experiment used for identifying this EM	EM00060	Glucose
+DTD0006	Organic cation transporter 2	Unclear experiment used for identifying this EM	EM00051	Haloperidol
+DTD0114	Sodium-dependent phosphate transport protein 1	Unclear experiment used for identifying this EM	EM00043	Urate
+DTD0095	Sodium-coupled citrate transporter	Unclear experiment used for identifying this EM	EM00010	Citrate

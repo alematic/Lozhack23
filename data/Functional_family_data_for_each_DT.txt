@@ -1,0 +1,424 @@
+TransporterID	Protein_Name_generally	Family	SubFamily
+DTD0001	Multidrug resistance-associated protein 1	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0002	Multidrug resistance-associated protein 2	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0003	P-glycoprotein 1	ATP-Binding Cassette (ABC) Superfamily	Multidrug Resistance Exporter (MDR) Family (ABCB)
+DTD0004	Breast cancer resistance protein	ATP-Binding Cassette (ABC) Superfamily	Eye Pigment Precursor Transporter (EPP) Family (ABCG)
+DTD0005	Organic anion transporter 2	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0006	Organic cation transporter 2	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0007	Multidrug and toxin extrusion protein 1	Multidrug/Oligosaccharidyl-Lipid/Polysaccharide (MOP) Flippase Superfamily	Multi Antimicrobial Extrusion (MATE) Family
+DTD0008	Organic anion transporting polypeptide 1B1	Organo Anion Transporter (OAT) Family	.
+DTD0009	Organic cation transporter 3	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0010	Organic cation transporter 1	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0012	Multidrug resistance-associated protein 3	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0013	Multidrug resistance protein 3	ATP-Binding Cassette (ABC) Superfamily	Multidrug Resistance Exporter (MDR) Family (ABCB)
+DTD0014	Bile salt export pump	ATP-Binding Cassette (ABC) Superfamily	Multidrug Resistance Exporter (MDR) Family (ABCB)
+DTD0015	Multidrug resistance-associated protein 4	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0016	Multidrug resistance-associated protein 5	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0017	Multidrug resistance-associated protein 6	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0019	Sodium/taurocholate cotransporting polypeptide	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0020	Apical sodium-dependent bile acid transporter	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0021	Peptide transporter 1	Proton-Dependent Oligopeptide Transporter (POT/PTR) Family	.
+DTD0022	Peptide transporter 2	Proton-Dependent Oligopeptide Transporter (POT/PTR) Family	.
+DTD0023	Organic cation/carnitine transporter 2	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0024	Organic anion transporter 1	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0025	Organic anion transporter 3	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0026	Organic anion transporter 4	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0027	Urate anion exchanger 1	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0028	Multidrug and toxin extrusion protein 2	Multidrug/Oligosaccharidyl-Lipid/Polysaccharide (MOP) Flippase Superfamily	Multi Antimicrobial Extrusion (MATE) Family
+DTD0029	Organic anion transporting polypeptide 1A2	Organo Anion Transporter (OAT) Family	.
+DTD0030	Organic anion transporting polypeptide 1B3	Organo Anion Transporter (OAT) Family	.
+DTD0031	Organic anion transporting polypeptide 2B1	Organo Anion Transporter (OAT) Family	.
+DTD0034	Vesicular amine transporter 2	Major Facilitator Superfamily (MFS)	Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family
+DTD0035	Zinc transporter 8	Cation Diffusion Facilitator (CDF) Family	.
+DTD0036	ATP-binding cassette sub-family A member 1	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0037	ATP-binding cassette sub-family A member 10	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0038	ATP-binding cassette sub-family A member 12	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0040	ATP-binding cassette sub-family A member 2	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0041	ATP-binding cassette sub-family A member 3	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0042	ATP-binding cassette sub-family A member 4	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0043	ATP-binding cassette sub-family A member 5	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0044	ATP-binding cassette sub-family A member 6	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0045	ATP-binding cassette sub-family A member 7	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0046	ATP-binding cassette sub-family A member 8	ATP-Binding Cassette (ABC) Superfamily	Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+DTD0047	ATP-binding cassette sub-family A member 9	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0051	ATP-binding cassette sub-family B member 5	ATP-Binding Cassette (ABC) Superfamily	Multidrug Resistance Exporter (MDR) Family (ABCB)
+DTD0052	ATP-binding cassette sub-family B member 6	ATP-Binding Cassette (ABC) Superfamily	Heavy Metal Transporter (HMT) Family (ABCB)
+DTD0053	ABC transporter 7 protein	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0054	ATP-binding cassette sub-family B member 8	ATP-Binding Cassette (ABC) Superfamily	Multidrug Resistance Exporter (MDR) Family (ABCB)
+DTD0055	TAP-like protein	ATP-Binding Cassette (ABC) Superfamily	MHC Peptide Transporter (TAP) Family (ABCB)
+DTD0056	Multidrug resistance-associated protein 7	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0057	Multidrug resistance-associated protein 8	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0060	Cystic fibrosis transmembrane conductance regulator	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0061	Sulfonylurea receptor 1	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0062	Sulfonylurea receptor 2	ATP-Binding Cassette (ABC) Superfamily	Drug Conjugate Transporter (DCT) Family (ABCC)
+DTD0063	Adrenoleukodystrophy protein	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0064	Adrenoleukodystrophy-like 1	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0065	ATP-binding cassette sub-family D member 3	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0066	Peroxisomal membrane protein 1-like	ATP-Binding Cassette (ABC) Superfamily	.
+DTD0071	ATP-binding cassette sub-family G member 1	ATP-Binding Cassette (ABC) Superfamily	Eye Pigment Precursor Transporter (EPP) Family (ABCG)
+DTD0076	Sodium/bile acid cotransporter 4	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0077	Sodium/bile acid cotransporter 5	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0078	Sodium-dependent organic anion transporter	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0079	Sodium/bile acid cotransporter 7	Bile Acid:Na(+) Symporter (BASS) Family	.
+DTD0080	Natural resistance-associated macrophage protein 1	Metal Ion (Mn(2+)-Iron) Transporter (NRAMP) Family	.
+DTD0081	Natural resistance-associated macrophage protein 2	Metal Ion (Mn(2+)-Iron) Transporter (NRAMP) Family	.
+DTD0082	Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 2	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0083	Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 1	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0084	Thiazide-sensitive sodium-chloride cotransporter	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0085	Electroneutral potassium-chloride cotransporter 1	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0086	Electroneutral potassium-chloride cotransporter 2	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0087	Electroneutral potassium-chloride cotransporter 3	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0088	Electroneutral potassium-chloride cotransporter 4	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0089	Cation-chloride cotransporter 9	Cation-Chloride Cotransporter (CCC) Family	.
+DTD0091	Sodium/sulfate cotransporter 1	Divalent Anion:Na(+) Symporter (DASS) Family	.
+DTD0092	Sodium/dicarboxylate cotransporter 1	Divalent Anion:Na(+) Symporter (DASS) Family	.
+DTD0093	Sodium/dicarboxylate cotransporter 3	Divalent Anion:Na(+) Symporter (DASS) Family	.
+DTD0094	Na(+)/sulfate cotransporter SUT-1	Divalent Anion:Na(+) Symporter (DASS) Family	.
+DTD0095	Sodium-coupled citrate transporter	Divalent Anion:Na(+) Symporter (DASS) Family	.
+DTD0096	Urea transporter 1	Urea Transporter (UT) Family	.
+DTD0097	Urea transporter 2	Urea Transporter (UT) Family	.
+DTD0098	Peptide/histidine transporter 2	Proton-Dependent Oligopeptide Transporter (POT/PTR) Family	.
+DTD0099	Peptide transporter 4	Proton-Dependent Oligopeptide Transporter (POT/PTR) Family	.
+DTD0100	Monocarboxylate transporter 1	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0101	Monocarboxylate transporter 10	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0102	Monocarboxylate transporter 11	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0103	Monocarboxylate transporter 12	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0104	Monocarboxylate transporter 13	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0105	Monocarboxylate transporter 14	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0106	Monocarboxylate transporter 8	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0107	Monocarboxylate transporter 4	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0109	Monocarboxylate transporter 6	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0110	Monocarboxylate transporter 7	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0111	Monocarboxylate transporter 2	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0112	Monocarboxylate transporter 3	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0113	Monocarboxylate transporter 9	Major Facilitator Superfamily (MFS)	Monocarboxylate Transporter (MCT) Family
+DTD0114	Sodium-dependent phosphate transport protein 1	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0115	Sodium-dependent phosphate transport protein 3	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0116	Sodium-dependent phosphate transport protein 4	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0117	Probable small intestine urate exporter	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0118	Vesicular H(+)/Aspartate-glutamate cotransporter	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0119	Vesicular glutamate transporter 2	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0120	Vesicular glutamate transporter 1	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0121	Vesicular glutamate transporter 3	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0122	Solute carrier family 17 member 9	Major Facilitator Superfamily (MFS)	Anion:Cation Symporter (ACS) Family
+DTD0123	Vesicular amine transporter 1	Major Facilitator Superfamily (MFS)	Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family
+DTD0124	Vesicular acetylcholine transporter	Major Facilitator Superfamily (MFS)	Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family
+DTD0125	MFS-type transporter SLC18B1	Major Facilitator Superfamily (MFS)	Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family
+DTD0126	Folate transporter 1	Reduced Folate Carrier (RFC) Family	.
+DTD0127	Thiamine transporter 1	Reduced Folate Carrier (RFC) Family	.
+DTD0128	Thiamine transporter 2	Reduced Folate Carrier (RFC) Family	.
+DTD0129	Excitatory amino acid transporter 3	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0130	Excitatory amino acid transporter 2	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0131	Excitatory amino acid transporter 1	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0132	Alanine/serine/cysteine/threonine transporter 1	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0133	Alanine/serine/cysteine/threonine transporter 2	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0134	Excitatory amino acid transporter 4	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0135	Excitatory amino acid transporter 5	Dicarboxylate/Amino Acid:Cation (Na(+) Or H(+)) Symporter (DAACS) Family	.
+DTD0136	Sodium-dependent phosphate transporter 1	Inorganic Phosphate Transporter (PIT) Family	.
+DTD0137	Sodium-dependent phosphate transporter 2	Inorganic Phosphate Transporter (PIT) Family	.
+DTD0139	Organic cation transporter-like 3	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0142	Fly-like putative transporter 2	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0143	Brain-type organic cation transporter	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0145	Organic anion transporter 6	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0146	Solute carrier family 22 member 23	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0148	Organic anion transporter UST6	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0151	Organic cation/carnitine transporter 1	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0152	Organic anion transporter 7	Major Facilitator Superfamily (MFS)	Organic Cation Transporter (OCT) Family
+DTD0155	Synaptic vesicle glycoprotein 2C	Major Facilitator Superfamily (MFS)	Vesicular Neurotransmitter Transporter (VNT) Family (Related to the SP Family
+DTD0158	Sodium-dependent vitamin C transporter 1	Nucleobase/Ascorbate Transporter (NAT) Or Nucleobase:Cation Symporter-2 (NCS2) Family	.
+DTD0159	Sodium-dependent vitamin C transporter 2	Nucleobase/Ascorbate Transporter (NAT) Or Nucleobase:Cation Symporter-2 (NCS2) Family	.
+DTD0160	Na(+)/L-ascorbic acid transporter 3	Nucleobase/Ascorbate Transporter (NAT) Or Nucleobase:Cation Symporter-2 (NCS2) Family	.
+DTD0162	Sodium/potassium/calcium exchanger 1	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0163	Sodium/potassium/calcium exchanger 2	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0164	Sodium/potassium/calcium exchanger 3	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0165	Sodium/potassium/calcium exchanger 4	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0166	Sodium/potassium/calcium exchanger 5	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0167	Tricarboxylate transport protein	Mitochondrial Carrier (MC) Family	.
+DTD0168	Mitochondrial dicarboxylate carrier	Mitochondrial Carrier (MC) Family	.
+DTD0169	Mitochondrial 2-oxoglutarate/malate carrier	Mitochondrial Carrier (MC) Family	.
+DTD0170	Calcium-binding mitochondrial carrier protein Aralar1	Mitochondrial Carrier (MC) Family	.
+DTD0171	Calcium-binding mitochondrial carrier protein Aralar2	Mitochondrial Carrier (MC) Family	.
+DTD0172	Brain mitochondrial carrier protein 1	Mitochondrial Carrier (MC) Family	.
+DTD0173	Mitochondrial ornithine transporter 1	Mitochondrial Carrier (MC) Family	.
+DTD0175	Graves disease carrier protein	Mitochondrial Carrier (MC) Family	.
+DTD0176	Peroxisomal membrane protein PMP34	Mitochondrial Carrier (MC) Family	.
+DTD0177	Mitochondrial glutamate carrier 2	Mitochondrial Carrier (MC) Family	.
+DTD0178	Mitochondrial thiamine pyrophosphate carrier	Mitochondrial Carrier (MC) Family	.
+DTD0179	Mitochondrial ornithine transporter 2	Mitochondrial Carrier (MC) Family	.
+DTD0180	Carnitine/acylcarnitine translocase	Mitochondrial Carrier (MC) Family	.
+DTD0182	Mitochondrial 2-oxodicarboxylate carrier	Mitochondrial Carrier (MC) Family	.
+DTD0183	Mitochondrial glutamate carrier 1	Mitochondrial Carrier (MC) Family	.
+DTD0184	Calcium-binding mitochondrial carrier protein SCaMC-3	Mitochondrial Carrier (MC) Family	.
+DTD0185	Calcium-binding mitochondrial carrier protein SCaMC-1	Mitochondrial Carrier (MC) Family	.
+DTD0186	Calcium-binding mitochondrial carrier protein SCaMC-2	Mitochondrial Carrier (MC) Family	.
+DTD0187	S-adenosylmethionine mitochondrial carrier protein	Mitochondrial Carrier (MC) Family	.
+DTD0188	Mitochondrial uncoupling protein 4	Mitochondrial Carrier (MC) Family	.
+DTD0189	Mitochondrial iron transporter 2	Mitochondrial Carrier (MC) Family	.
+DTD0190	Mitochondrial ornithine transporter 3	Mitochondrial Carrier (MC) Family	.
+DTD0191	Phosphate carrier protein	Mitochondrial Carrier (MC) Family	.
+DTD0193	Adenine nucleotide translocator 4	Mitochondrial Carrier (MC) Family	.
+DTD0194	Mitochondrial folate transporter/carrier	Mitochondrial Carrier (MC) Family	.
+DTD0195	Bone marrow stromal cell mitochondrial carrier protein	Mitochondrial Carrier (MC) Family	.
+DTD0198	Solute carrier family 25 member 36	Mitochondrial Carrier (MC) Family	.
+DTD0199	Mitochondrial iron transporter 1	Mitochondrial Carrier (MC) Family	.
+DTD0200	Mitochondrial glycine transporter	Mitochondrial Carrier (MC) Family	.
+DTD0202	Adenine nucleotide translocator 1	Mitochondrial Carrier (MC) Family	.
+DTD0205	Mitochondrial coenzyme A transporter SLC25A42	Mitochondrial Carrier (MC) Family	.
+DTD0213	Adenine nucleotide translocator 2	Mitochondrial Carrier (MC) Family	.
+DTD0222	Adenine nucleotide translocator 3	Mitochondrial Carrier (MC) Family	.
+DTD0224	Mitochondrial brown fat uncoupling protein 1	Mitochondrial Carrier (MC) Family	.
+DTD0225	Mitochondrial uncoupling protein 2	Mitochondrial Carrier (MC) Family	.
+DTD0226	Mitochondrial uncoupling protein 3	Mitochondrial Carrier (MC) Family	.
+DTD0227	Sulfate anion transporter 1	Sulfate Permease (SULP) Family	.
+DTD0230	Sulfate transporter	Sulfate Permease (SULP) Family	.
+DTD0231	Chloride anion exchanger	Sulfate Permease (SULP) Family	.
+DTD0232	Sodium-independent chloride/iodide transporter	Sulfate Permease (SULP) Family	.
+DTD0233	Prestin	Sulfate Permease (SULP) Family	.
+DTD0234	Anion exchange transporter	Sulfate Permease (SULP) Family	.
+DTD0235	Anion exchange transporter	Sulfate Permease (SULP) Family	.
+DTD0237	Anion transporter/exchanger protein 9	Sulfate Permease (SULP) Family	.
+DTD0238	Fatty acid transport protein 1	Fatty Acid Transporter (FAT) Family	.
+DTD0239	Very long-chain acyl-CoA synthetase	Fatty Acid Transporter (FAT) Family	.
+DTD0240	Long-chain fatty acid transport protein 3	Fatty Acid Transporter (FAT) Family	.
+DTD0241	Long-chain fatty acid transport protein 4	Fatty Acid Transporter (FAT) Family	.
+DTD0242	Bile acid-CoA ligase	Fatty Acid Transporter (FAT) Family	.
+DTD0243	Long-chain fatty acid transport protein 6	Fatty Acid Transporter (FAT) Family	.
+DTD0244	Concentrative nucleoside transporter 1	Concentrative Nucleoside Transporter (CNT) Family	.
+DTD0245	Concentrative nucleoside transporter 2	Concentrative Nucleoside Transporter (CNT) Family	.
+DTD0246	Concentrative Na(+)-nucleoside cotransporter 3	Concentrative Nucleoside Transporter (CNT) Family	.
+DTD0247	Equilibrative nucleoside transporter 1	Equilibrative Nucleoside Transporter (ENT) Family	.
+DTD0248	Equilibrative nucleoside transporter 2	Equilibrative Nucleoside Transporter (ENT) Family	.
+DTD0249	Equilibrative nucleoside transporter 3	Equilibrative Nucleoside Transporter (ENT) Family	.
+DTD0250	Equilibrative nucleoside transporter 4	Equilibrative Nucleoside Transporter (ENT) Family	.
+DTD0251	Glucose transporter type 1	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0252	Glucose transporter type 10	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0253	Glucose transporter type 11	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0254	Glucose transporter type 12	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0255	Proton myo-inositol cotransporter	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0256	Glucose transporter type 14	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0257	Glucose transporter type 2	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0258	Glucose transporter type 3	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0262	Glucose transporter type 4	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0263	Glucose transporter type 5	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0264	Glucose transporter type 6	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0265	Glucose transporter type 7	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0266	Glucose transporter type 8	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0267	Glucose transporter type 9	Major Facilitator Superfamily (MFS)	Sugar Porter (SP) Family
+DTD0269	Zinc transporter 1	Cation Diffusion Facilitator (CDF) Family	.
+DTD0270	Zinc transporter 10	Cation Diffusion Facilitator (CDF) Family	.
+DTD0271	Zinc transporter 2	Cation Diffusion Facilitator (CDF) Family	.
+DTD0272	Zinc transporter 3	Cation Diffusion Facilitator (CDF) Family	.
+DTD0273	Zinc transporter 4	Cation Diffusion Facilitator (CDF) Family	.
+DTD0274	Zinc transporter 5	Cation Diffusion Facilitator (CDF) Family	.
+DTD0275	Zinc transporter 6	Cation Diffusion Facilitator (CDF) Family	.
+DTD0276	Zinc transporter 7	Cation Diffusion Facilitator (CDF) Family	.
+DTD0277	Zinc transporter 9	Cation Diffusion Facilitator (CDF) Family	.
+DTD0278	High affinity copper uptake protein 1	Copper Transporter (CTR) Family	.
+DTD0280	Probable low affinity copper uptake protein 2	Copper Transporter (CTR) Family	.
+DTD0281	Vesicular inhibitory amino acid transporter	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0282	Acetyl-coenzyme A transporter 1	Major Facilitator Superfamily (MFS)	Peptide/Acetyl-Coenzyme A/Drug Transporter (PAT) Family
+DTD0284	Sodium-dependent phosphate transport protein 2A	Phosphate:Na(+) Symporter (PNAS) Family	.
+DTD0285	Sodium-dependent phosphate transport protein 2B	Phosphate:Na(+) Symporter (PNAS) Family	.
+DTD0286	Sodium-dependent phosphate transport protein 2C	Phosphate:Na(+) Symporter (PNAS) Family	.
+DTD0287	CMP-sialic acid transporter	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0288	UDP-galactose translocator	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0289	UDP-N-acetylglucosamine transporter	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0290	Probable UDP-sugar transporter protein SLC35A4	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0291	Probable UDP-sugar transporter protein SLC35A5	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0292	UDP-galactose transporter-related protein 1	Drug/Metabolite Transporter (DMT) Superfamily	UDP-Galactose:UMP Antiporter (UGA) Family
+DTD0293	Adenosine 3'-phospho 5'-phosphosulfate transporter 1	Drug/Metabolite Transporter (DMT) Superfamily	UDP-Galactose:UMP Antiporter (UGA) Family
+DTD0294	Adenosine 3'-phospho 5'-phosphosulfate transporter 2	Drug/Metabolite Transporter (DMT) Superfamily	UDP-Galactose:UMP Antiporter (UGA) Family
+DTD0295	UDP-xylose and UDP-N-acetylglucosamine transporter	Drug/Metabolite Transporter (DMT) Superfamily	UDP-N-Acetylglucosamine:UMP Antiporter (UAA) Family
+DTD0296	GDP-fucose transporter 1	Drug/Metabolite Transporter (DMT) Superfamily	GDP-fucose Transporter (GFT) Family
+DTD0298	UDP-glucuronic acid/UDP-N-acetylgalactosamine transporter	Drug/Metabolite Transporter (DMT) Superfamily	UDP-glucuronate/UDP-N-acetylgalactosamine Transporter (UGnT) Family
+DTD0299	UDP-N-acetylglucosamine/UDP-glucose/GDP-mannose transporter	Drug/Metabolite Transporter (DMT) Superfamily	UDP-glucuronate/UDP-N-acetylgalactosamine Transporter (UGnT) Family
+DTD0300	Fringe connection-like protein 1	Drug/Metabolite Transporter (DMT) Superfamily	UDP-glucuronate/UDP-N-acetylgalactosamine Transporter (UGnT) Family
+DTD0305	Solute carrier family 35 member E4	Drug/Metabolite Transporter (DMT) Superfamily	Triose-phosphate Transporter (TPT) Family
+DTD0308	Putative thiamine transporter SLC35F3	Drug/Metabolite Transporter (DMT) Superfamily	Thiamine Pyrophosphate Transporter (TPPT) Family
+DTD0311	ANT2-binding protein	Drug/Metabolite Transporter (DMT) Superfamily	CMP-Sialate:CMP Antiporter (CSA) Family
+DTD0318	Proton-coupled amino acid transporter 1	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0319	Proton-coupled amino acid transporter 2	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0320	Proton-coupled amino acid transporter 3	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0321	Proton-coupled amino acid transporter 4	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0322	Glycerol-3-phosphate permease	Major Facilitator Superfamily (MFS)	Organophosphate:Pi Antiporter (OPA) Family
+DTD0323	Glucose-6-phosphate exchanger SLC37A2	Major Facilitator Superfamily (MFS)	Organophosphate:Pi Antiporter (OPA) Family
+DTD0324	Sugar phosphate exchanger 3	Major Facilitator Superfamily (MFS)	Organophosphate:Pi Antiporter (OPA) Family
+DTD0325	Glucose-6-phosphate translocase	Major Facilitator Superfamily (MFS)	Organophosphate:Pi Antiporter (OPA) Family
+DTD0326	Sodium-coupled neutral amino acid transporter 1	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0327	Putative sodium-coupled neutral amino acid transporter 10	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0328	Putative sodium-coupled neutral amino acid transporter 11	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0329	Sodium-coupled neutral amino acid transporter 2	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0330	Sodium-coupled neutral amino acid transporter 3	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0331	Sodium-coupled neutral amino acid transporter 4	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0332	Sodium-coupled neutral amino acid transporter 5	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0333	Probable sodium-coupled neutral amino acid transporter 6	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0334	Putative sodium-coupled neutral amino acid transporter 7	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0335	Putative sodium-coupled neutral amino acid transporter 8	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0336	Sodium-coupled neutral amino acid transporter 9	Amino Acid/Auxin Permease (AAAP) Family	.
+DTD0337	Zrt- and Irt-like protein 1	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0338	Zrt- and Irt-like protein 10	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0339	Zrt- and Irt-like protein 11	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0340	Zrt- and Irt-like protein 12	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0341	Zrt- and Irt-like protein 13	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0342	Zrt- and Irt-like protein 14	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0343	Zrt- and Irt-like protein 2	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0344	Zrt- and Irt-like protein 3	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0345	Zrt- and Irt-like protein 4	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0346	Zrt- and Irt-like protein 5	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0347	Zrt- and Irt-like protein 6	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0348	Zrt- Irt-like protein 7	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0349	Zrt- and Irt-like protein 8	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0350	Zrt- and Irt-like protein 9	Zinc (Zn(2+))-Iron (Fe(2+)) Permease (ZIP) Family	.
+DTD0351	Neutral and basic amino acid transport protein rBAT	rBAT Transport Accessory Protein (rBAT) Family	.
+DTD0352	Lymphocyte activation antigen 4F2	rBAT Transport Accessory Protein (rBAT) Family	.
+DTD0353	Iron-regulated transporter 1	Ferroportin (FPN) Family	.
+DTD0354	Magnesium transporter protein solute carrier family 41 member 1	Mg(2+) Transporter-E (MGTE) Family	.
+DTD0355	Magnesium transporter protein solute carrier family 41 member 2	Mg(2+) Transporter-E (MGTE) Family	.
+DTD0356	Magnesium transporter protein solute carrier family 41 member 3	Mg(2+) Transporter-E (MGTE) Family	.
+DTD0358	Ammonium transporter Rh type B	Ammonium Transporter Channel (AMT) Family	.
+DTD0359	Ammonium transporter Rh type C	Ammonium Transporter Channel (AMT) Family	.
+DTD0360	L-type amino acid transporter 3	Major Facilitator Superfamily (MFS)	L-Amino Acid Transporter-3 (LAT3) Family
+DTD0361	L-type amino acid transporter 4	Major Facilitator Superfamily (MFS)	L-Amino Acid Transporter-3 (LAT3) Family
+DTD0362	Equilibrative nucleobase transporter 1	Major Facilitator Superfamily (MFS)	L-Amino Acid Transporter-3 (LAT3) Family
+DTD0363	Choline transporter-like protein 1	Choline Transporter-Like (CTl) Family	.
+DTD0364	Choline transporter-like protein 2	Choline Transporter-Like (CTl) Family	.
+DTD0366	Choline transporter-like protein 4	Choline Transporter-Like (CTl) Family	.
+DTD0367	Choline transporter-like protein 5	Choline Transporter-Like (CTl) Family	.
+DTD0368	Proton-associated sugar transporter A	Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	.
+DTD0369	Membrane-associated transporter protein	Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	.
+DTD0370	Solute carrier family 45 member 3	Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	.
+DTD0371	Solute carrier family 45 member 4	Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	.
+DTD0372	Proton-coupled folate transporter	Major Facilitator Superfamily (MFS)	Proton Coupled Folate Transporter/Heme Carrier Protein (PCFT/HCP) Family
+DTD0373	Thymic stromal cotransporter homolog	Major Facilitator Superfamily (MFS)	Proton Coupled Folate Transporter/Heme Carrier Protein (PCFT/HCP) Family
+DTD0375	Heme transporter HRG1	Heme Transporter, Heme-Responsive Gene Protein (HRG) Family	.
+DTD0376	Feline leukemia virus subgroup C receptor-related protein 1	Major Facilitator Superfamily (MFS)	Feline Leukemia Virus Subgroup C Receptor (FLVCR)/Heme Importer Family
+DTD0377	Feline leukemia virus subgroup C receptor-related protein 2	Major Facilitator Superfamily (MFS)	Feline Leukemia Virus Subgroup C Receptor (FLVCR)/Heme Importer Family
+DTD0380	Anion exchange protein 1	Anion Exchanger (AE) Family	.
+DTD0381	Sodium-driven chloride bicarbonate exchanger	Anion Exchanger (AE) Family	.
+DTD0382	Sodium bicarbonate transporter-like protein 11	Anion Exchanger (AE) Family	.
+DTD0383	Anion exchange protein 2	Anion Exchanger (AE) Family	.
+DTD0384	Anion exchange protein 3	Anion Exchanger (AE) Family	.
+DTD0385	Electrogenic sodium bicarbonate cotransporter 1	Anion Exchanger (AE) Family	.
+DTD0386	Electrogenic sodium bicarbonate cotransporter 4	Anion Exchanger (AE) Family	.
+DTD0387	Sodium bicarbonate cotransporter 3	Anion Exchanger (AE) Family	.
+DTD0388	Electroneutral sodium bicarbonate exchanger 1	Anion Exchanger (AE) Family	.
+DTD0389	Anion exchange protein 4	Anion Exchanger (AE) Family	.
+DTD0390	Sugar transporter SWEET1	Sweet, Pq-loop, Saliva, Mtn3 (SWEET) family	.
+DTD0391	Organic solute transporter subunit alpha	Organic Solute Transporter (OST) Family	.
+DTD0392	Organic solute transporter subunit beta	Organic Solute Transporter (OST) Family	.
+DTD0393	Riboflavin transporter 1	Eukaryotic Riboflavin Transporter (E-RFT) Family	.
+DTD0394	Riboflavin transporter 3	Eukaryotic Riboflavin Transporter (E-RFT) Family	.
+DTD0395	Riboflavin transporter 2	Eukaryotic Riboflavin Transporter (E-RFT) Family	.
+DTD0400	Mitochondrial proton/calcium exchanger protein	Mitochondrial Inner membrane k(+)/h(+) and ca(2+)/h(+) Exchanger (LETM1) Family	.
+DTD0403	Sideroflexin-1	Mitochondrial Tricarboxylate Carrier (MTC) Family	.
+DTD0406	Sideroflexin-4	Mitochondrial Tricarboxylate Carrier (MTC) Family	.
+DTD0408	Magnesium transporter NIPA1	Drug/Metabolite Transporter (DMT) Superfamily	NIPA Mg2+ Uptake Permease (NIPA) Family
+DTD0409	Magnesium transporter NIPA2	Drug/Metabolite Transporter (DMT) Superfamily	NIPA Mg2+ Uptake Permease (NIPA) Family
+DTD0412	NIPA-like protein 3	Drug/Metabolite Transporter (DMT) Superfamily	NIPA Mg2+ Uptake Permease (NIPA) Family
+DTD0414	Magnesium transporter protein 1	Magnesium Transporter1 (MAGT1) Family	.
+DTD0415	Tumor suppressor candidate 3	Magnesium Transporter1 (MAGT1) Family	.
+DTD0416	Major facilitator superfamily domain-containing protein 2A	Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	.
+DTD0418	Sodium/glucose cotransporter 1	Solute:Sodium Symporter (SSS) Family	.
+DTD0419	Sodium/glucose cotransporter 5	Solute:Sodium Symporter (SSS) Family	.
+DTD0420	Sodium/myo-inositol cotransporter 2	Solute:Sodium Symporter (SSS) Family	.
+DTD0421	Sodium-coupled monocarboxylate transporter 2	Solute:Sodium Symporter (SSS) Family	.
+DTD0422	Sodium/glucose cotransporter 2	Solute:Sodium Symporter (SSS) Family	.
+DTD0423	Sodium/myo-inositol cotransporter	Solute:Sodium Symporter (SSS) Family	.
+DTD0424	Sodium/glucose cotransporter 3	Solute:Sodium Symporter (SSS) Family	.
+DTD0425	Sodium/iodide cotransporter	Solute:Sodium Symporter (SSS) Family	.
+DTD0426	Sodium-dependent multivitamin transporter	Solute:Sodium Symporter (SSS) Family	.
+DTD0427	High affinity choline transporter 1	Solute:Sodium Symporter (SSS) Family	.
+DTD0428	Sodium-coupled monocarboxylate transporter 1	Solute:Sodium Symporter (SSS) Family	.
+DTD0429	Sodium/glucose cotransporter 4	Solute:Sodium Symporter (SSS) Family	.
+DTD0433	Progressive ankylosis protein homolog	Multidrug/Oligosaccharidyl-Lipid/Polysaccharide (MOP) Flippase Superfamily	Progressive Ankylosis (ANK) Family
+DTD0435	Protein spinster homolog 2	Major Facilitator Superfamily (MFS)	Endosomal Spinster (Spinster) Family
+DTD0439	Niemann-Pick C1-like protein 1	Resistance-Nodulation-Cell Division (RND) Superfamily	Eukaryotic (Putative) Sterol Transporter (EST) Family
+DTD0440	Sodium- and chloride-dependent GABA transporter 1	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0443	Sodium- and chloride-dependent GABA transporter 3	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0444	Na(+)/Cl(-) betaine/GABA transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0445	Sodium- and chloride-dependent GABA transporter 2	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0446	Amino acid transporter ATB0+	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0447	Sodium-dependent neutral amino acid transporter B(0)AT2	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0449	Sodium-dependent neurotransmitter transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0450	Sodium-dependent neutral amino acid transporter B(0)AT3	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0451	Sodium-dependent neutral amino acid transporter B(0)AT1	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0452	Sodium-dependent noradrenaline transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0453	Sodium/imino-acid transporter 1	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0455	Sodium-dependent dopamine transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0456	Sodium-dependent serotonin transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0457	Sodium- and chloride-dependent glycine transporter 2	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0458	Sodium- and chloride-dependent taurine transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0459	Sodium-dependent proline transporter	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0460	Creatine transporter 1	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0461	Sodium- and chloride-dependent glycine transporter 1	Neurotransmitter:Sodium Symporter (NSS) Family	.
+DTD0462	High affinity cationic amino acid transporter 1	Amino Acid-Polyamine-Organocation (APC) Family	Cationic Amino Acid Transporter (CAT) Family
+DTD0463	Asc-type amino acid transporter 1	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0464	Cystine/glutamate transporter	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0465	Sodium-independent aspartate/glutamate transporter 1	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0468	Cationic amino acid transporter 2	Amino Acid-Polyamine-Organocation (APC) Family	Cationic Amino Acid Transporter (CAT) Family
+DTD0469	Cationic amino acid transporter 3	Amino Acid-Polyamine-Organocation (APC) Family	Cationic Amino Acid Transporter (CAT) Family
+DTD0471	L-type amino acid transporter 1	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0473	Y+L amino acid transporter 2	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0474	Y+L amino acid transporter 1	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0475	L-type amino acid transporter 2	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0476	Glycoprotein-associated amino acid transporter b0, +AT1	Amino Acid-Polyamine-Organocation (APC) Family	L-type Amino Acid Transporter (LAT) Family
+DTD0477	Sodium/calcium exchanger 1	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0478	Sodium/calcium exchanger 2	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0479	Sodium/calcium exchanger 3	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0480	Mitochondrial sodium/calcium exchanger protein	Ca(2+):Cation Antiporter (CACA) Family	.
+DTD0481	Sodium/hydrogen exchanger 1	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0482	Sodium/hydrogen exchanger 2	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0483	Sodium/hydrogen exchanger 3	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0488	Sodium/hydrogen exchanger 4	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0489	Sodium/hydrogen exchanger 5	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0490	Sodium/hydrogen exchanger 6	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0491	Sodium/hydrogen exchanger 7	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0493	Sodium/hydrogen exchanger 8	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0494	Sodium/hydrogen exchanger 9	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0495	Sodium/hydrogen exchanger 9B1	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0496	Sodium/hydrogen exchanger 9B2	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0497	Sodium/hydrogen exchanger 10	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0498	Sodium/hydrogen exchanger 11	Monovalent Cation:Proton Antiporter-1 (CPA1) family	.
+DTD0499	Organic anion transporting polypeptide 1C1	Organo Anion Transporter (OAT) Family	.
+DTD0500	Organic anion transporting polypeptide 2A1	Organo Anion Transporter (OAT) Family	.
+DTD0501	Organic anion transporting polypeptide 3A1	Organo Anion Transporter (OAT) Family	.
+DTD0502	Organic anion transporting polypeptide 4A1	Organo Anion Transporter (OAT) Family	.
+DTD0503	Organic anion transporting polypeptide 4C1	Organo Anion Transporter (OAT) Family	.
+DTD0504	Organic anion transporting polypeptide 5A1	Organo Anion Transporter (OAT) Family	.
+DTD0505	Organic anion-transporting polypeptide 6A1	Organo Anion Transporter (OAT) Family	.
+DTD0510	Voltage-gated potassium channel Kv11.1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0511	ATP-sensitive inward rectifier potassium channel 11	Inward Rectifier K(+) Channel (IRK-C) Family	.
+DTD0512	Calcium-activated potassium channel subunit alpha-1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0513	Voltage-gated potassium channel Kv7.1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0514	Annexin A11	General Secretory Pathway (SEC) Family	.
+DTD0515	Probable phospholipid-transporting ATPase VA	P-Type ATPase (P-ATPase) Superfamily	.
+DTD0516	Plasma membrane calcium-transporting ATPase 1	P-Type ATPase (P-ATPase) Superfamily	.
+DTD0517	ATP synthase subunit epsilon	P-Type ATPase (P-ATPase) Superfamily	.
+DTD0518	Voltage-gated calcium channel alpha Cav2.1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0519	Voltage-gated calcium channel alpha Cav2.2	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0520	Voltage-gated calcium channel alpha Cav2.3	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0521	Voltage-dependent calcium channel alpha-2/delta-3	Ca(2+) Channel Auxiliary Subunit Alpha2Delta Types 1-4 (CCA-Alpha2Delta) Family	.
+DTD0522	Voltage-dependent L-type calcium channel beta-4	Ca(2+) Channel Auxiliary Subunit Beta Types 1-4 (CCA-Beta) Family	.
+DTD0523	Voltage-dependent calcium channel gamma-2	Ca(+) Channel Auxiliary Subunit Gama1-Gama8 (CCAgama) Family	.
+DTD0524	Voltage-dependent calcium channel gamma-3	Ca(+) Channel Auxiliary Subunit Gama1-Gama8 (CCAgama) Family	.
+DTD0525	Inward rectifier K(+) channel Kir3.2	Inward Rectifier K(+) Channel (IRK-C) Family	.
+DTD0526	Voltage-gated sodium channel alpha Nav1.1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0527	Voltage-gated sodium channel alpha Nav1.4	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0528	Voltage-gated sodium channel alpha Nav1.6	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0529	Voltage-gated sodium channel alpha Nav1.7	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0530	Voltage-gated calcium channel alpha Cav3.2	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0531	Voltage-gated potassium channel Kv11.3	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0532	Potassium channel subfamily T member 1	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0533	Copper-transporting ATPase 2	P-Type ATPase (P-ATPase) Superfamily	.
+DTD0534	Voltage-gated calcium channel alpha Cav1.2	Voltage-Gated Ion Channel (VIC) Superfamily	.
+DTD0535	Voltage-dependent L-type calcium channel beta-2	Ca(2+) Channel Auxiliary Subunit Beta Types 1-4 (CCA-Beta) Family	.
+DTD0537	RalBP1-associated Eps domain-containing protein 2	Non ABC Multidrug Exporter (N-MDE) Family	.
+DTD0540	Potassium-transporting ATPase alpha chain 2	P-type ATPase (P-ATPase) Superfamily	.
+DTD0541	Voltage-gated calcium channel subunit alpha Cav3.1	Na+/K+/Ca2+ Channel Targeting Tarantula Huwentoxin (THT) Family	.
+DTD0542	Annexin A2	Annexin (Annexin) Family	.
+DTD0543	Small conductance calcium-activated potassium channel protein 1	Voltage-gated Ion Channel (VIC) Superfamily	.
+DTD0544	Voltage-gated potassium channel subunit Kv1.5	Voltage-gated Ion Channel (VIC) Superfamily	.
+DTD0545	Potassium channel subfamily K member 2	Voltage-gated Ion Channel (VIC) Superfamily	.
+DTD0546	Potassium channel subfamily K member 9	Voltage-gated Ion Channel (VIC) Superfamily	.
+DTD0547	Potassium channel subfamily K member 4	Voltage-gated Ion Channel (VIC) Superfamily	.
+DTD0648	Copper-transporting ATPase 1	P-Type ATPase (P-ATPase) Superfamily	.
