@@ -1,0 +1,424 @@
+TransporterID	Gene_name	Protein_Name_generally	Gene_id	Uniprot ID	TCDB ID
+DTD0103	SLC16A12	Monocarboxylate transporter 12	387700	Q6ZSM3	2.A.1.13.14
+DTD0166	SLC24A5	Sodium/potassium/calcium exchanger 5	283652	Q71RS6	2.A.19.4.6
+DTD0320	SLC36A3	Proton-coupled amino acid transporter 3	285641	Q495N2	2.A.18.8.4
+DTD0343	SLC39A2	Zrt- and Irt-like protein 2	29986	Q9NP94	2.A.5.3.1
+DTD0370	SLC45A3	Solute carrier family 45 member 3	85414	Q96JT2	2.A.2.4.8
+DTD0420	SLC5A11	Sodium/myo-inositol cotransporter 2	115584	Q8WWX8	2.A.21.3.6
+DTD0171	SLC25A13	Calcium-binding mitochondrial carrier protein Aralar2	10165	Q9UJS0	2.A.29.14.2
+DTD0513	KCNQ1	Voltage-gated potassium channel Kv7.1	3784	P51787	1.A.1.15.6
+DTD0175	SLC25A16	Graves disease carrier protein	8034	P16260	2.A.29.12.3
+DTD0168	SLC25A10	Mitochondrial dicarboxylate carrier	1468	Q9UBX3	2.A.29.2.7
+DTD0065	ABCD3	ATP-binding cassette sub-family D member 3	5825	P28288	3.A.1.203.1
+DTD0093	SLC13A3	Sodium/dicarboxylate cotransporter 3	64849	Q8WWT9	2.A.47.1.15
+DTD0240	SLC27A3	Long-chain fatty acid transport protein 3	11000	Q5K4L6	4.C.1.1.12
+DTD0419	SLC5A10	Sodium/glucose cotransporter 5	125206	A0PJK1	2.A.21.3.15
+DTD0017	ABCC6	Multidrug resistance-associated protein 6	368	O95255	3.A.1.208.10
+DTD0232	SLC26A4	Sodium-independent chloride/iodide transporter	5172	O43511	2.A.53.2.17
+DTD0287	SLC35A1	CMP-sialic acid transporter	10559	P78382	2.A.7.12.11
+DTD0393	SLC52A1	Riboflavin transporter 1	55065	Q9NWF4	2.A.125.1.1
+DTD0394	SLC52A2	Riboflavin transporter 3	79581	Q9HAB3	2.A.125.1.3
+DTD0325	SLC37A4	Glucose-6-phosphate translocase	2542	O43826	2.A.1.4.5
+DTD0528	SCN8A	Voltage-gated sodium channel alpha Nav1.6	6334	O95788	1.A.1.10.8
+DTD0414	SLC58A1	Magnesium transporter protein 1	84061	Q9H0U3	1.A.76.1.1
+DTD0169	SLC25A11	Mitochondrial 2-oxoglutarate/malate carrier	8402	Q02978	2.A.29.2.13
+DTD0288	SLC35A2	UDP-galactose translocator	7355	P78381	2.A.7.12.6
+DTD0071	ABCG1	ATP-binding cassette sub-family G member 1	9619	P45844	3.A.1.204.12
+DTD0036	ABCA1	ATP-binding cassette sub-family A member 1	19	O95477	3.A.1.211.14
+DTD0183	SLC25A22	Mitochondrial glutamate carrier 1	79751	Q9H936	2.A.29.14.3
+DTD0180	SLC25A20	Carnitine/acylcarnitine translocase	788	O43772	2.A.29.8.3
+DTD0439	SLC65A2	Niemann-Pick C1-like protein 1	29881	Q9UHC9	2.A.6.6.6
+DTD0351	SLC3A1	Neutral and basic amino acid transport protein rBAT	6519	Q07837	8.A.9.1.2
+DTD0084	SLC12A3	Thiazide-sensitive sodium-chloride cotransporter	6559	P55017	2.A.30.1.12
+DTD0298	SLC35D1	UDP-glucuronic acid/UDP-N-acetylgalactosamine transporter	23169	Q9NTN3	2.A.7.15.4
+DTD0427	SLC5A7	High affinity choline transporter 1	60482	Q9GZV3	2.A.21.8.2
+DTD0395	SLC52A3	Riboflavin transporter 2	113278	Q9NQ40	2.A.125.1.2
+DTD0024	SLC22A6	Organic anion transporter 1	9356	Q4U2R8	2.A.1.19.31
+DTD0148	SLC22A25	Organic anion transporter UST6	387601	Q6T423	2.A.1.19.33
+DTD0152	SLC22A9	Organic anion transporter 7	114571	Q8IVM8	2.A.1.19.18
+DTD0027	SLC22A12	Urate anion exchanger 1	116085	Q96S37	2.A.1.19.11
+DTD0026	SLC22A11	Organic anion transporter 4	55867	Q9NSA0	2.A.1.19.10
+DTD0145	SLC22A20	Organic anion transporter 6	440044	A6NK97	2.A.1.19.35
+DTD0045	ABCA7	ATP-binding cassette sub-family A member 7	10347	Q8IZY2	3.A.1.211.10
+DTD0471	SLC7A5	L-type amino acid transporter 1	8140	Q01650	2.A.3.8.25
+DTD0463	SLC7A10	Asc-type amino acid transporter 1	56301	Q9NS82	2.A.3.8.21
+DTD0497	SLC9C1	Sodium/hydrogen exchanger 10	285335	Q4G0N8	2.A.36.7.5
+DTD0521	CACNA2D3	Voltage-dependent calcium channel alpha-2/delta-3	55799	Q9NY16	8.A.18.3.1
+DTD0362	SLC43A3	Equilibrative nucleobase transporter 1	29015	Q8NBI5	2.A.1.44.3
+DTD0480	SLC8B1	Mitochondrial sodium/calcium exchanger protein	80024	Q6J4K2	2.A.19.4.4
+DTD0273	SLC30A4	Zinc transporter 4	7782	O14863	2.A.4.3.7
+DTD0358	SLC42A2	Ammonium transporter Rh type B	57127	Q9H310	1.A.11.4.2
+DTD0450	SLC6A18	Sodium-dependent neutral amino acid transporter B(0)AT3	348932	Q96N87	2.A.22.6.4
+DTD0146	SLC22A23	Solute carrier family 22 member 23	63027	A1A5C7	2.A.1.19.28
+DTD0416	SLC59A1	Major facilitator superfamily domain-containing protein 2A	26227	Q8NA29	2.A.2.3.8
+DTD0460	SLC6A8	Creatine transporter 1	6535	P48029	2.A.22.3.11
+DTD0525	KCNJ6	Inward rectifier K(+) channel Kir3.2	3763	P48051	1.A.2.1.10
+DTD0190	SLC25A29	Mitochondrial ornithine transporter 3	123096	Q8N8R3	2.A.29.8.9
+DTD0053	ABCB7	ABC transporter 7 protein	22	O75027	3.A.1.210.4
+DTD0488	SLC9A4	Sodium/hydrogen exchanger 4	389015	Q6AI14	2.A.36.1.18
+DTD0106	SLC16A2	Monocarboxylate transporter 8	6567	P36021	2.A.1.13.10
+DTD0001	ABCC1	Multidrug resistance-associated protein 1	4363	P33527	3.A.1.208.8
+DTD0165	SLC24A4	Sodium/potassium/calcium exchanger 4	123041	Q8NFF2	2.A.19.4.5
+DTD0034	SLC18A2	Vesicular amine transporter 2	6571	Q05940	2.A.1.2.29
+DTD0137	SLC20A2	Sodium-dependent phosphate transporter 2	6575	Q08357	2.A.20.2.3
+DTD0280	SLC31A2	Probable low affinity copper uptake protein 2	1318	O15432	1.A.56.1.9
+DTD0529	SCN9A	Voltage-gated sodium channel alpha Nav1.7	6335	Q15858	1.A.1.10.5
+DTD0512	KCNMA1	Calcium-activated potassium channel subunit alpha-1	3778	Q12960	1.A.1
+DTD0384	SLC4A3	Anion exchange protein 3	6508	P48751	2.A.31.1.3
+DTD0336	SLC38A9	Sodium-coupled neutral amino acid transporter 9	153129	Q8NBW4	2.A.18.9.1
+DTD0349	SLC39A8	Zrt- and Irt-like protein 8	64116	Q9C0K1	2.A.5.4.15
+DTD0478	SLC8A2	Sodium/calcium exchanger 2	6543	Q9UPR5	2.A.19.3.5
+DTD0375	SLC48A1	Heme transporter HRG1	55652	Q6P1K1	2.A.110.1.1
+DTD0361	SLC43A2	L-type amino acid transporter 4	124935	Q8N370	2.A.1.44.2
+DTD0360	SLC43A1	L-type amino acid transporter 3	8501	O75387	2.A.1.44.1
+DTD0285	SLC34A2	Sodium-dependent phosphate transport protein 2B	10568	O95436	2.A.58.1.4
+DTD0139	SLC22A13	Organic cation transporter-like 3	9390	Q9Y226	2.A.1.19.17
+DTD0334	SLC38A7	Putative sodium-coupled neutral amino acid transporter 7	55238	Q9NVC3	2.A.18.6.13
+DTD0532	KCNT1	Potassium channel subfamily T member 1	57582	Q9P2C5	1.A.1
+DTD0518	CACNA1A	Voltage-gated calcium channel alpha Cav2.1	773	O00555	1.A.1.11.27
+DTD0520	CACNA1E	Voltage-gated calcium channel alpha Cav2.3	777	Q15878	1.A.1
+DTD0248	SLC29A2	Equilibrative nucleoside transporter 2	3177	Q14542	2.A.57.1.8
+DTD0348	SLC39A7	Zrt- Irt-like protein 7	7922	Q92504	2.A.5.4.3
+DTD0347	SLC39A6	Zrt- and Irt-like protein 6	25800	Q13433	2.A.5.4.13
+DTD0267	SLC2A9	Glucose transporter type 9	56606	Q9NRM0	2.A.1.1.72
+DTD0322	SLC37A1	Glycerol-3-phosphate permease	54020	P57057	2.A.1.4.7
+DTD0376	SLC49A1	Feline leukemia virus subgroup C receptor-related protein 1	28982	Q9Y5Y0	2.A.1.28.1
+DTD0527	SCN4A	Voltage-gated sodium channel alpha Nav1.4	6329	P35499	1.A.1.10.4
+DTD0490	SLC9A6	Sodium/hydrogen exchanger 6	10479	Q92581	2.A.36.1.14
+DTD0104	SLC16A13	Monocarboxylate transporter 13	201232	Q7RTY0	2.A.1.13.17
+DTD0095	SLC13A5	Sodium-coupled citrate transporter	284111	Q86YT5	2.A.47.1.9
+DTD0143	SLC22A17	Brain-type organic cation transporter	51310	Q8WUG5	2.A.1.19.8
+DTD0400	SLC55A1	Mitochondrial proton/calcium exchanger protein	3954	O95202	2.A.97.1.1
+DTD0038	ABCA12	ATP-binding cassette sub-family A member 12	26154	Q86UK0	3.A.1.211.13
+DTD0345	SLC39A4	Zrt- and Irt-like protein 4	55630	Q6P5W5	2.A.5.4.1
+DTD0292	SLC35B1	UDP-galactose transporter-related protein 1	10237	P78383	2.A.7.11.1
+DTD0130	SLC1A2	Excitatory amino acid transporter 2	6506	P43004	2.A.23.2.7
+DTD0424	SLC5A4	Sodium/glucose cotransporter 3	6527	Q9NY91	2.A.21.3.18
+DTD0176	SLC25A17	Peroxisomal membrane protein PMP34	10478	O43808	2.A.29.20.1
+DTD0092	SLC13A2	Sodium/dicarboxylate cotransporter 1	9058	Q13183	2.A.47.1.17
+DTD0195	SLC25A33	Bone marrow stromal cell mitochondrial carrier protein	84275	Q9BSK2	2.A.29.10.7
+DTD0458	SLC6A6	Sodium- and chloride-dependent taurine transporter	6533	P31641	2.A.22.3.3
+DTD0116	SLC17A3	Sodium-dependent phosphate transport protein 4	10786	O00476	2.A.1.14.28
+DTD0136	SLC20A1	Sodium-dependent phosphate transporter 1	6574	Q8WUM9	2.A.20.2.7
+DTD0281	SLC32A1	Vesicular inhibitory amino acid transporter	140679	Q9H598	2.A.18.5.4
+DTD0440	SLC6A1	Sodium- and chloride-dependent GABA transporter 1	6529	P30531	2.A.22.3.2
+DTD0066	ABCD4	Peroxisomal membrane protein 1-like	5826	O14678	3.A.1.203.9
+DTD0170	SLC25A12	Calcium-binding mitochondrial carrier protein Aralar1	8604	O75746	2.A.29.14.1
+DTD0041	ABCA3	ATP-binding cassette sub-family A member 3	21	Q99758	3.A.1.211.5
+DTD0249	SLC29A3	Equilibrative nucleoside transporter 3	55315	Q9BZD2	2.A.57.1.6
+DTD0479	SLC8A3	Sodium/calcium exchanger 3	6547	P57103	2.A.19.3.3
+DTD0359	SLC42A3	Ammonium transporter Rh type C	51458	Q9UBD6	1.A.11.4.1
+DTD0324	SLC37A3	Sugar phosphate exchanger 3	84255	Q8NCC5	2.A.1.4.9
+DTD0311	SLC35F6	ANT2-binding protein	54978	Q8N357	2.A.7.12.13
+DTD0340	SLC39A12	Zrt- and Irt-like protein 12	221074	Q504Y0	2.A.5.4.14
+DTD0305	SLC35E4	Solute carrier family 35 member E4	339665	Q6ICL7	2.A.7.9.11
+DTD0012	ABCC3	Multidrug resistance-associated protein 3	8714	O15438	3.A.1.208.9
+DTD0293	SLC35B2	Adenosine 3'-phospho 5'-phosphosulfate transporter 1	347734	Q8TB61	2.A.7.11.3
+DTD0457	SLC6A5	Sodium- and chloride-dependent glycine transporter 2	9152	Q9Y345	2.A.22.2.10
+DTD0128	SLC19A3	Thiamine transporter 2	80704	Q9BZV2	2.A.48.1.4
+DTD0350	SLC39A9	Zrt- and Irt-like protein 9	55334	Q9NUM3	2.A.5.6.1
+DTD0541	CACNA1G	Voltage-gated calcium channel subunit alpha Cav3.1	8913	O43497	8.B.5.1.1
+DTD0504	SLCO5A1	Organic anion transporting polypeptide 5A1	81796	Q9H2Y9	2.A.60.1.16
+DTD0227	SLC26A1	Sulfate anion transporter 1	10861	Q9H2B4	2.A.53.2.16
+DTD0115	SLC17A2	Sodium-dependent phosphate transport protein 3	10246	O00624	2.A.1.14.29
+DTD0444	SLC6A12	Na(+)/Cl(-) betaine/GABA transporter	6539	P48065	2.A.22.3.1
+DTD0076	SLC10A4	Sodium/bile acid cotransporter 4	201780	Q96EP9	2.A.28.1.7
+DTD0412	SLC57A5	NIPA-like protein 3	57185	Q6P499	2.A.7.25.3
+DTD0356	SLC41A3	Magnesium transporter protein solute carrier family 41 member 3	54946	Q96GZ6	1.A.26.2.3
+DTD0233	SLC26A5	Prestin	375611	P58743	2.A.53.2.19
+DTD0278	SLC31A1	High affinity copper uptake protein 1	1317	O15431	1.A.56.1.2
+DTD0446	SLC6A14	Amino acid transporter ATB0+	11254	Q9UN76	2.A.22.2.3
+DTD0013	ABCB4	Multidrug resistance protein 3	5244	P21439	3.A.1.201.3
+DTD0003	ABCB1	P-glycoprotein 1	5243	P08183	3.A.1.201.1
+DTD0163	SLC24A2	Sodium/potassium/calcium exchanger 2	25769	Q9UI40	2.A.19.4.11
+DTD0294	SLC35B3	Adenosine 3'-phospho 5'-phosphosulfate transporter 2	51000	Q9H1N7	2.A.7.11.5
+DTD0331	SLC38A4	Sodium-coupled neutral amino acid transporter 4	55089	Q969I6	2.A.18.6.17
+DTD0648	ATP7A	Copper-transporting ATPase 1	538	Q04656	3.A.3.5.6
+DTD0030	SLCO1B3	Organic anion transporting polypeptide 1B3	28234	Q9NPD5	2.A.60.1.12
+DTD0008	SLCO1B1	Organic anion transporting polypeptide 1B1	10599	Q9Y6L6	2.A.60.1.5
+DTD0465	SLC7A13	Sodium-independent aspartate/glutamate transporter 1	157724	Q8TCU3	2.A.3.8.24
+DTD0187	SLC25A26	S-adenosylmethionine mitochondrial carrier protein	115286	Q70HW3	2.A.29.18.3
+DTD0028	SLC47A2	Multidrug and toxin extrusion protein 2	146802	Q86VL8	2.A.66.1.20
+DTD0445	SLC6A13	Sodium- and chloride-dependent GABA transporter 2	6540	Q9NSD5	2.A.22.3.10
+DTD0418	SLC5A1	Sodium/glucose cotransporter 1	6523	P13866	2.A.21.3.1
+DTD0428	SLC5A8	Sodium-coupled monocarboxylate transporter 1	160728	Q8N695	2.A.21.5.3
+DTD0499	SLCO1C1	Organic anion transporting polypeptide 1C1	53919	Q9NYB5	2.A.60.1.15
+DTD0127	SLC19A2	Thiamine transporter 1	10560	O60779	2.A.48.1.2
+DTD0537	RALBP1	RalBP1-associated Eps domain-containing protein 2	10928	Q8NFH8	9.A.1.1.1
+DTD0321	SLC36A4	Proton-coupled amino acid transporter 4	120103	Q6YBV0	2.A.18.8.5
+DTD0390	SLC50A1	Sugar transporter SWEET1	55974	Q9BRV3	2.A.123.1.4
+DTD0019	SLC10A1	Sodium/taurocholate cotransporting polypeptide	6554	Q14973	2.A.28.1.9
+DTD0271	SLC30A2	Zinc transporter 2	7780	Q9BRI3	2.A.4.3.6
+DTD0125	SLC18B1	MFS-type transporter SLC18B1	116843	Q6NT16	2.A.1.2.57
+DTD0007	SLC47A1	Multidrug and toxin extrusion protein 1	55244	Q96FL8	2.A.66.1.14
+DTD0330	SLC38A3	Sodium-coupled neutral amino acid transporter 3	10991	Q99624	2.A.18.6.3
+DTD0473	SLC7A6	Y+L amino acid transporter 2	9057	Q92536	2.A.3.8.23
+DTD0333	SLC38A6	Probable sodium-coupled neutral amino acid transporter 6	145389	Q8IZM9	2.A.18.6.11
+DTD0425	SLC5A5	Sodium/iodide cotransporter	6528	Q92911	2.A.21.5.1
+DTD0385	SLC4A4	Electrogenic sodium bicarbonate cotransporter 1	8671	Q9Y6R1	2.A.31.2.12
+DTD0096	SLC14A1	Urea transporter 1	6563	Q13336	1.A.28.1.5
+DTD0155	SLC22B3	Synaptic vesicle glycoprotein 2C	22987	Q496J9	2.A.1.22.6
+DTD0475	SLC7A8	L-type amino acid transporter 2	23428	Q9UHI5	2.A.3.8.20
+DTD0422	SLC5A2	Sodium/glucose cotransporter 2	6524	P31639	2.A.21.3.16
+DTD0274	SLC30A5	Zinc transporter 5	64924	Q8TAD4	2.A.4.4.3
+DTD0380	SLC4A1	Anion exchange protein 1	6521	P02730	2.A.31.1.1
+DTD0256	SLC2A14	Glucose transporter type 14	144195	Q8TDB8	2.A.1.1.90
+DTD0035	SLC30A8	Zinc transporter 8	169026	Q8IWU4	2.A.4.3.5
+DTD0120	SLC17A7	Vesicular glutamate transporter 1	57030	Q9P2U7	2.A.1.14.30
+DTD0335	SLC38A8	Putative sodium-coupled neutral amino acid transporter 8	146167	A6NNN8	2.A.18.6.12
+DTD0372	SLC46A1	Proton-coupled folate transporter	113235	Q96NT5	2.A.1.50.1
+DTD0099	SLC15A4	Peptide transporter 4	121260	Q8N697	2.A.17.3.11
+DTD0392	SLC51B	Organic solute transporter subunit beta	123264	Q86UW2	2.A.82.1.2
+DTD0544	KCNA5	Voltage-gated potassium channel subunit Kv1.5	3741	P22460	1.A.1.2.4
+DTD0381	SLC4A10	Sodium-driven chloride bicarbonate exchanger	57282	Q6U841	2.A.31.2.14
+DTD0453	SLC6A20	Sodium/imino-acid transporter 1	54716	Q9NP91	2.A.22.6.8
+DTD0245	SLC28A2	Concentrative nucleoside transporter 2	9153	O43868	2.A.41.2.4
+DTD0291	SLC35A5	Probable UDP-sugar transporter protein SLC35A5	55032	Q9BS91	2.A.7.12.14
+DTD0132	SLC1A4	Alanine/serine/cysteine/threonine transporter 1	6509	P43007	2.A.23.3.1
+DTD0189	SLC25A28	Mitochondrial iron transporter 2	81894	Q96A46	2.A.29.5.8
+DTD0113	SLC16A9	Monocarboxylate transporter 9	220963	Q7RTY1	2.A.1.13.16
+DTD0332	SLC38A5	Sodium-coupled neutral amino acid transporter 5	92745	Q8WUX1	2.A.18.6.15
+DTD0352	SLC3A2	Lymphocyte activation antigen 4F2	6520	P08195	8.A.9.2.2
+DTD0199	SLC25A37	Mitochondrial iron transporter 1	51312	Q9NYZ2	2.A.29.5.7
+DTD0246	SLC28A3	Concentrative Na(+)-nucleoside cotransporter 3	64078	Q9HAS3	2.A.41.2.8
+DTD0389	SLC4A9	Anion exchange protein 4	83697	Q96Q91	2.A.31.2.13
+DTD0244	SLC28A1	Concentrative nucleoside transporter 1	9154	O00337	2.A.41.2.3
+DTD0265	SLC2A7	Glucose transporter type 7	155184	Q6PXP3	2.A.1.1.37
+DTD0051	ABCB5	ATP-binding cassette sub-family B member 5	340273	Q2M3G0	3.A.1.201.13
+DTD0491	SLC9A7	Sodium/hydrogen exchanger 7	84679	Q96T83	2.A.36.1.3
+DTD0391	SLC51A	Organic solute transporter subunit alpha	200931	Q86UW1	2.A.82.1.2
+DTD0482	SLC9A2	Sodium/hydrogen exchanger 2	6549	Q9UBY0	2.A.36.1.17
+DTD0083	SLC12A2	Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 1	6558	P55011	2.A.30.1.4
+DTD0272	SLC30A3	Zinc transporter 3	7781	Q99726	2.A.4.3.2
+DTD0251	SLC2A1	Glucose transporter type 1	6513	P11166	2.A.1.1.28
+DTD0263	SLC2A5	Glucose transporter type 5	6518	P22732	2.A.1.1.13
+DTD0526	SCN1A	Voltage-gated sodium channel alpha Nav1.1	6323	P35498	1.A.1.10.7
+DTD0515	ATP10A	Probable phospholipid-transporting ATPase VA	57194	O60312	3.A.3
+DTD0387	SLC4A7	Sodium bicarbonate cotransporter 3	9497	Q9Y6M7	2.A.31.2.11
+DTD0056	ABCC10	Multidrug resistance-associated protein 7	89845	Q5T3U5	3.A.1.208.31
+DTD0494	SLC9A9	Sodium/hydrogen exchanger 9	285195	Q8IVB4	2.A.36.1.19
+DTD0124	SLC18A3	Vesicular acetylcholine transporter	6572	Q16572	2.A.1.2.28
+DTD0119	SLC17A6	Vesicular glutamate transporter 2	57084	Q9P2U8	2.A.1.14.31
+DTD0456	SLC6A4	Sodium-dependent serotonin transporter	6532	P31645	2.A.22.1.1
+DTD0421	SLC5A12	Sodium-coupled monocarboxylate transporter 2	159963	Q1EHB4	2.A.21.5.6
+DTD0289	SLC35A3	UDP-N-acetylglucosamine transporter	23443	Q9Y2D2	2.A.7.12.7
+DTD0191	SLC25A3	Phosphate carrier protein	5250	Q00325	2.A.29.4.2
+DTD0505	SLCO6A1	Organic anion-transporting polypeptide 6A1	133482	Q86UG4	2.A.60.1.17
+DTD0112	SLC16A8	Monocarboxylate transporter 3	23539	O95907	2.A.1.13.9
+DTD0415	SLC58A2	Tumor suppressor candidate 3	7991	Q13454	1.A.76.1.2
+DTD0363	SLC44A1	Choline transporter-like protein 1	23446	Q8WWI5	2.A.92.1.6
+DTD0462	SLC7A1	High affinity cationic amino acid transporter 1	6541	P30825	2.A.3.3.9
+DTD0269	SLC30A1	Zinc transporter 1	7779	Q9Y6M5	2.A.4.2.6
+DTD0496	SLC9B2	Sodium/hydrogen exchanger 9B2	133308	Q86UD5	2.A.36.2.2
+DTD0364	SLC44A2	Choline transporter-like protein 2	57153	Q8IWA5	2.A.92.1.4
+DTD0202	SLC25A4	Adenine nucleotide translocator 1	291	P12235	2.A.29.1.2
+DTD0516	ATP2B1	Plasma membrane calcium-transporting ATPase 1	490	P20020	3.A.3.2.25
+DTD0476	SLC7A9	Glycoprotein-associated amino acid transporter b0, +AT1	11136	P82251	2.A.3.8.19
+DTD0493	SLC9A8	Sodium/hydrogen exchanger 8	23315	Q9Y2E8	2.A.36.1.9
+DTD0029	SLCO1A2	Organic anion transporting polypeptide 1A2	6579	P46721	2.A.60.1.14
+DTD0005	SLC22A7	Organic anion transporter 2	10864	Q9Y694	2.A.1.19.25
+DTD0040	ABCA2	ATP-binding cassette sub-family A member 2	20	Q9BZC7	3.A.1.211.3
+DTD0042	ABCA4	ATP-binding cassette sub-family A member 4	24	P78363	3.A.1.211.2
+DTD0107	SLC16A3	Monocarboxylate transporter 4	9123	O15427	2.A.1.13.6
+DTD0366	SLC44A4	Choline transporter-like protein 4	80736	Q53GD3	2.A.92.1.7
+DTD0224	SLC25A7	Mitochondrial brown fat uncoupling protein 1	7350	P25874	2.A.29.3.2
+DTD0252	SLC2A10	Glucose transporter type 10	81031	O95528	2.A.1.1.59
+DTD0172	SLC25A14	Brain mitochondrial carrier protein 1	9016	O95258	2.A.29.24.1
+DTD0162	SLC24A1	Sodium/potassium/calcium exchanger 1	9187	O60721	2.A.19.4.9
+DTD0129	SLC1A1	Excitatory amino acid transporter 3	6505	P43005	2.A.23.2.3
+DTD0234	SLC26A6	Anion exchange transporter	65010	Q9BXS9	2.A.53.2.7
+DTD0523	CACNG2	Voltage-dependent calcium channel gamma-2	10369	Q9Y698	8.A.16.2.1
+DTD0500	SLCO2A1	Organic anion transporting polypeptide 2A1	6578	Q92959	2.A.60.1.19
+DTD0094	SLC13A4	Na(+)/sulfate cotransporter SUT-1	26266	Q9UKG4	2.A.47.1.14
+DTD0021	SLC15A1	Peptide transporter 1	6564	P46059	2.A.17.4.9
+DTD0205	SLC25A42	Mitochondrial coenzyme A transporter SLC25A42	284439	Q86VD7	2.A.29.12.2
+DTD0031	SLCO2B1	Organic anion transporting polypeptide 2B1	11309	O94956	2.A.60.1.20
+DTD0337	SLC39A1	Zrt- and Irt-like protein 1	27173	Q9NY26	2.A.5.3.2
+DTD0270	SLC30A10	Zinc transporter 10	55532	Q6XR72	2.A.4.2.5
+DTD0369	SLC45A2	Membrane-associated transporter protein	51151	Q9UMX9	2.A.2.4.9
+DTD0142	SLC22A16	Fly-like putative transporter 2	85413	Q86VW1	2.A.1.19.12
+DTD0250	SLC29A4	Equilibrative nucleoside transporter 4	222962	Q7RTT9	2.A.57.1.5
+DTD0408	SLC57A1	Magnesium transporter NIPA1	123606	Q7RTP0	2.A.7.25.1
+DTD0275	SLC30A6	Zinc transporter 6	55676	Q6NXT4	2.A.4.4.4
+DTD0258	SLC2A3	Glucose transporter type 3	6515	P11169	2.A.1.1.91
+DTD0242	SLC27A5	Bile acid-CoA ligase	10998	Q9Y2P5	4.C.1.1.13
+DTD0087	SLC12A6	Electroneutral potassium-chloride cotransporter 3	9990	Q9UHW9	2.A.30.1.15
+DTD0540	ATP12A	Potassium-transporting ATPase alpha chain 2	479	P54707	3.A.3.1.13
+DTD0193	SLC25A31	Adenine nucleotide translocator 4	83447	Q9H0C2	2.A.29.1.8
+DTD0495	SLC9B1	Sodium/hydrogen exchanger 9B1	150159	Q4ZJI4	2.A.36.2.3
+DTD0231	SLC26A3	Chloride anion exchanger	1811	P40879	2.A.53.2.18
+DTD0468	SLC7A2	Cationic amino acid transporter 2	6542	P52569	2.A.3.3.8
+DTD0200	SLC25A38	Mitochondrial glycine transporter	54977	Q96DW6	2.A.29.5.6
+DTD0077	SLC10A5	Sodium/bile acid cotransporter 5	347051	Q5PT55	2.A.28.1.6
+DTD0016	ABCC5	Multidrug resistance-associated protein 5	10057	O15440	3.A.1.208.15
+DTD0091	SLC13A1	Sodium/sulfate cotransporter 1	6561	Q9BZW2	2.A.47.1.16
+DTD0329	SLC38A2	Sodium-coupled neutral amino acid transporter 2	54407	Q96QD8	2.A.18.6.5
+DTD0308	SLC35F3	Putative thiamine transporter SLC35F3	148641	Q8IY50	2.A.7.24.8
+DTD0459	SLC6A7	Sodium-dependent proline transporter	6534	Q99884	2.A.22.2.11
+DTD0342	SLC39A14	Zrt- and Irt-like protein 14	23516	Q15043	2.A.5.4.5
+DTD0371	SLC45A4	Solute carrier family 45 member 4	57210	Q5BKX6	2.A.2.4.7
+DTD0328	SLC38A11	Putative sodium-coupled neutral amino acid transporter 11	151258	Q08AI6	2.A.18.6.18
+DTD0546	KCNK9	Potassium channel subfamily K member 9	51305	Q9NPC2	1.A.1.9.11
+DTD0503	SLCO4C1	Organic anion transporting polypeptide 4C1	353189	Q6ZQN7	2.A.60.1.11
+DTD0179	SLC25A2	Mitochondrial ornithine transporter 2	83884	Q9BXI2	2.A.29.19.1
+DTD0173	SLC25A15	Mitochondrial ornithine transporter 1	10166	Q9Y619	2.A.29.19.2
+DTD0338	SLC39A10	Zrt- and Irt-like protein 10	57181	Q9ULF5	2.A.5.4.6
+DTD0386	SLC4A5	Electrogenic sodium bicarbonate cotransporter 4	57835	Q9BY07	2.A.31.2.8
+DTD0186	SLC25A25	Calcium-binding mitochondrial carrier protein SCaMC-2	114789	Q6KCM7	2.A.29.23.1
+DTD0002	ABCC2	Multidrug resistance-associated protein 2	1244	Q92887	3.A.1.208.2
+DTD0452	SLC6A2	Sodium-dependent noradrenaline transporter	6530	P23975	2.A.22.1.2
+DTD0241	SLC27A4	Long-chain fatty acid transport protein 4	10999	Q6P1M0	4.C.1.1.10
+DTD0243	SLC27A6	Long-chain fatty acid transport protein 6	28965	Q9Y2P4	4.C.1.1.11
+DTD0277	SLC30A9	Zinc transporter 9	10463	Q6PML9	2.A.4.6.1
+DTD0276	SLC30A7	Zinc transporter 7	148867	Q8NEW0	2.A.4.4.5
+DTD0545	KCNK2	Potassium channel subfamily K member 2	3776	O95069	1.A.1.9.1
+DTD0015	ABCC4	Multidrug resistance-associated protein 4	10257	O15439	3.A.1.208.7
+DTD0339	SLC39A11	Zrt- and Irt-like protein 11	201266	Q8N1S5	2.A.5.5.2
+DTD0368	SLC45A1	Proton-associated sugar transporter A	50651	Q9Y2W3	2.A.2.4.10
+DTD0489	SLC9A5	Sodium/hydrogen exchanger 5	6553	Q14940	2.A.36.1.16
+DTD0123	SLC18A1	Vesicular amine transporter 1	6570	P54219	2.A.1.2.12
+DTD0185	SLC25A24	Calcium-binding mitochondrial carrier protein SCaMC-1	29957	Q6NUK1	2.A.29.23.8
+DTD0239	SLC27A2	Very long-chain acyl-CoA synthetase	11001	O14975	4.C.1.1.5
+DTD0511	KCNJ11	ATP-sensitive inward rectifier potassium channel 11	3767	Q14654	1.A.2.1.17
+DTD0284	SLC34A1	Sodium-dependent phosphate transport protein 2A	6569	Q06495	2.A.58.1.5
+DTD0054	ABCB8	ATP-binding cassette sub-family B member 8	11194	Q9NUT2	3.A.1.201.22
+DTD0435	SLC63A2	Protein spinster homolog 2	124976	Q8IVW8	2.A.1.49.6
+DTD0159	SLC23A2	Sodium-dependent vitamin C transporter 2	9962	Q9UGH3	2.A.40.6.2
+DTD0346	SLC39A5	Zrt- and Irt-like protein 5	283375	Q6ZMH5	2.A.5.4.10
+DTD0326	SLC38A1	Sodium-coupled neutral amino acid transporter 1	81539	Q9H2H9	2.A.18.6.14
+DTD0020	SLC10A2	Apical sodium-dependent bile acid transporter	6555	Q12908	2.A.28.1.2
+DTD0367	SLC44A5	Choline transporter-like protein 5	204962	Q8NCS7	2.A.92.1.5
+DTD0037	ABCA10	ATP-binding cassette sub-family A member 10	10349	Q8WWZ4	3.A.1.211.17
+DTD0044	ABCA6	ATP-binding cassette sub-family A member 6	23460	Q8N139	3.A.1.211.15
+DTD0022	SLC15A2	Peptide transporter 2	6565	Q16348	2.A.17.4.8
+DTD0296	SLC35C1	GDP-fucose transporter 1	55343	Q96A29	2.A.7.16.1
+DTD0543	KCNN1	Small conductance calcium-activated potassium channel protein 1	3780	Q92952	1.A.1.16.6
+DTD0388	SLC4A8	Electroneutral sodium bicarbonate exchanger 1	9498	Q2Y0W8	2.A.31.2.4
+DTD0102	SLC16A11	Monocarboxylate transporter 11	162515	Q8NCK7	2.A.1.13.13
+DTD0167	SLC25A1	Tricarboxylate transport protein	6576	P53007	2.A.29.7.2
+DTD0098	SLC15A3	Peptide/histidine transporter 2	51296	Q8IY34	2.A.17.3.9
+DTD0533	ATP7B	Copper-transporting ATPase 2	540	P35670	3.A.3.5.3
+DTD0121	SLC17A8	Vesicular glutamate transporter 3	246213	Q8NDX2	2.A.1.14.32
+DTD0341	SLC39A13	Zrt- and Irt-like protein 13	91252	Q96H72	2.A.5.4.12
+DTD0085	SLC12A4	Electroneutral potassium-chloride cotransporter 1	6560	Q9UP95	2.A.30.1.17
+DTD0449	SLC6A17	Sodium-dependent neurotransmitter transporter	388662	Q9H1V8	2.A.22.6.6
+DTD0447	SLC6A15	Sodium-dependent neutral amino acid transporter B(0)AT2	55117	Q9H2J7	2.A.22.6.7
+DTD0061	ABCC8	Sulfonylurea receptor 1	6833	Q09428	3.A.1.208.4
+DTD0502	SLCO4A1	Organic anion transporting polypeptide 4A1	28231	Q96BD0	2.A.60.1.9
+DTD0100	SLC16A1	Monocarboxylate transporter 1	6566	P53985	2.A.1.13.1
+DTD0111	SLC16A7	Monocarboxylate transporter 2	9194	O60669	2.A.1.13.5
+DTD0109	SLC16A5	Monocarboxylate transporter 6	9121	O15375	2.A.1.13.11
+DTD0009	SLC22A3	Organic cation transporter 3	6581	O75751	2.A.1.19.24
+DTD0262	SLC2A4	Glucose transporter type 4	6517	P14672	2.A.1.1.80
+DTD0286	SLC34A3	Sodium-dependent phosphate transport protein 2C	142680	Q8N130	2.A.58.1.3
+DTD0088	SLC12A7	Electroneutral potassium-chloride cotransporter 4	10723	Q9Y666	2.A.30.1.16
+DTD0006	SLC22A2	Organic cation transporter 2	6582	O15244	2.A.1.19.30
+DTD0010	SLC22A1	Organic cation transporter 1	6580	O15245	2.A.1.19.29
+DTD0063	ABCD1	Adrenoleukodystrophy protein	215	P33897	3.A.1.203.3
+DTD0510	KCNH2	Voltage-gated potassium channel Kv11.1	3757	Q12809	1.A.1.20.1
+DTD0531	KCNH7	Voltage-gated potassium channel Kv11.3	90134	Q9NS40	1.A.1
+DTD0469	SLC7A3	Cationic amino acid transporter 3	84889	Q8WY07	2.A.3.3.10
+DTD0264	SLC2A6	Glucose transporter type 6	11182	Q9UGQ3	2.A.1.1.88
+DTD0501	SLCO3A1	Organic anion transporting polypeptide 3A1	28232	Q9UIG8	2.A.60.1.18
+DTD0114	SLC17A1	Sodium-dependent phosphate transport protein 1	6568	Q14916	2.A.1.14.27
+DTD0122	SLC17A9	Solute carrier family 17 member 9	63910	Q9BYT1	2.A.1.14.21
+DTD0060	ABCC7	Cystic fibrosis transmembrane conductance regulator	1080	P13569	3.A.1.202.1
+DTD0253	SLC2A11	Glucose transporter type 11	66035	Q9BYW1	2.A.1.1.44
+DTD0078	SLC10A6	Sodium-dependent organic anion transporter	345274	Q3KNW5	2.A.28.1.4
+DTD0238	SLC27A1	Fatty acid transport protein 1	376497	Q6PCB7	4.C.1.1.9
+DTD0158	SLC23A1	Sodium-dependent vitamin C transporter 1	9963	Q9UHI7	2.A.40.6.5
+DTD0423	SLC5A3	Sodium/myo-inositol cotransporter	6526	P53794	2.A.21.3.14
+DTD0151	SLC22A4	Organic cation/carnitine transporter 1	6583	Q9H015	2.A.1.19.2
+DTD0023	SLC22A5	Organic cation/carnitine transporter 2	6584	O76082	2.A.1.19.3
+DTD0184	SLC25A23	Calcium-binding mitochondrial carrier protein SCaMC-3	79085	Q9BV35	2.A.29.23.5
+DTD0046	ABCA8	ATP-binding cassette sub-family A member 8	10351	O94911	3.A.1.211.6
+DTD0079	SLC10A7	Sodium/bile acid cotransporter 7	84068	Q0GE19	2.A.28.3.1
+DTD0055	ABCB9	TAP-like protein	23457	Q9NP78	3.A.1.209.2
+DTD0524	CACNG3	Voltage-dependent calcium channel gamma-3	10368	O60359	8.A.16.2.2
+DTD0295	SLC35B4	UDP-xylose and UDP-N-acetylglucosamine transporter	84912	Q969S0	2.A.7.10.2
+DTD0164	SLC24A3	Sodium/potassium/calcium exchanger 3	57419	Q9HC58	2.A.19.4.10
+DTD0300	SLC35D3	Fringe connection-like protein 1	340146	Q5M8T2	2.A.7.15.5
+DTD0118	SLC17A5	Vesicular H(+)/Aspartate-glutamate cotransporter	26503	Q9NRA2	2.A.1.14.10
+DTD0323	SLC37A2	Glucose-6-phosphate exchanger SLC37A2	219855	Q8TED4	2.A.1.4.8
+DTD0547	KCNK4	Potassium channel subfamily K member 4	50801	Q9NYG8	.
+DTD0182	SLC25A21	Mitochondrial 2-oxodicarboxylate carrier	89874	Q9BQT8	2.A.29.2.4
+DTD0097	SLC14A2	Urea transporter 2	8170	Q15849	1.A.28.1.6
+DTD0014	ABCB11	Bile salt export pump	8647	O95342	3.A.1.201.2
+DTD0403	SLC56A1	Sideroflexin-1	94081	Q9H9B4	2.A.54.1.1
+DTD0461	SLC6A9	Sodium- and chloride-dependent glycine transporter 1	6536	P48067	2.A.22.2.12
+DTD0429	SLC5A9	Sodium/glucose cotransporter 4	200010	Q2M3M2	2.A.21.3.17
+DTD0047	ABCA9	ATP-binding cassette sub-family A member 9	10350	Q8IUA7	3.A.1.211.16
+DTD0455	SLC6A3	Sodium-dependent dopamine transporter	6531	Q01959	2.A.22.1.3
+DTD0406	SLC56A4	Sideroflexin-4	119559	Q6P4A7	2.A.54.1.3
+DTD0082	SLC12A1	Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 2	6557	Q13621	2.A.30.1.2
+DTD0062	ABCC9	Sulfonylurea receptor 2	10060	O60706	3.A.1.208.23
+DTD0373	SLC46A2	Thymic stromal cotransporter homolog	57864	Q9BY10	2.A.1.50.2
+DTD0282	SLC33A1	Acetyl-coenzyme A transporter 1	9197	O00400	2.A.1.25.1
+DTD0409	SLC57A2	Magnesium transporter NIPA2	81614	Q8N8Q9	2.A.7.25.2
+DTD0237	SLC26A9	Anion transporter/exchanger protein 9	115019	Q7LBE3	2.A.53.2.15
+DTD0198	SLC25A36	Solute carrier family 25 member 36	55186	Q96CQ1	2.A.29.10.6
+DTD0382	SLC4A11	Sodium bicarbonate transporter-like protein 11	83959	Q8NBS3	2.A.31.4.1
+DTD0255	SLC2A13	Proton myo-inositol cotransporter	114134	Q96QE2	2.A.1.1.25
+DTD0086	SLC12A5	Electroneutral potassium-chloride cotransporter 2	57468	Q9H2X9	2.A.30.1.18
+DTD0160	SLC23A3	Na(+)/L-ascorbic acid transporter 3	151295	Q6PIS1	2.A.40.6.4
+DTD0383	SLC4A2	Anion exchange protein 2	6522	P04920	2.A.31.1.2
+DTD0230	SLC26A2	Sulfate transporter	1836	P50443	2.A.53.2.1
+DTD0134	SLC1A6	Excitatory amino acid transporter 4	6511	P48664	2.A.23.2.8
+DTD0354	SLC41A1	Magnesium transporter protein solute carrier family 41 member 1	254428	Q8IVJ1	1.A.26.2.1
+DTD0004	ABCG2	Breast cancer resistance protein	9429	Q9UNQ0	3.A.1.204.2
+DTD0522	CACNB4	Voltage-dependent L-type calcium channel beta-4	785	O00305	8.A.22.1.4
+DTD0498	SLC9C2	Sodium/hydrogen exchanger 11	284525	Q5TAH2	2.A.36.7.4
+DTD0043	ABCA5	ATP-binding cassette sub-family A member 5	23461	Q8WWZ7	3.A.1.211.9
+DTD0117	SLC17A4	Probable small intestine urate exporter	10050	Q9Y2C5	2.A.1.14.24
+DTD0318	SLC36A1	Proton-coupled amino acid transporter 1	206358	Q7Z2H8	2.A.18.8.7
+DTD0542	ANXA2	Annexin A2	302	P07355	1.A.31.1.4
+DTD0290	SLC35A4	Probable UDP-sugar transporter protein SLC35A4	113829	Q96G79	2.A.7.12.12
+DTD0426	SLC5A6	Sodium-dependent multivitamin transporter	8884	Q9Y289	2.A.21.5.7
+DTD0188	SLC25A27	Mitochondrial uncoupling protein 4	9481	O95847	2.A.29.24.3
+DTD0319	SLC36A2	Proton-coupled amino acid transporter 2	153201	Q495M3	2.A.18.8.6
+DTD0514	ANXA11	Annexin A11	311	P50995	3.A.5.9.1
+DTD0327	SLC38A10	Putative sodium-coupled neutral amino acid transporter 10	124565	Q9HBR0	2.A.18.6.16
+DTD0443	SLC6A11	Sodium- and chloride-dependent GABA transporter 3	6538	P48066	2.A.22.3.9
+DTD0299	SLC35D2	UDP-N-acetylglucosamine/UDP-glucose/GDP-mannose transporter	11046	Q76EJ3	2.A.7.15.1
+DTD0213	SLC25A5	Adenine nucleotide translocator 2	292	P05141	2.A.29.1.1
+DTD0257	SLC2A2	Glucose transporter type 2	6514	P11168	2.A.1.1.29
+DTD0530	CACNA1H	Voltage-gated calcium channel alpha Cav3.2	8912	O95180	1.A.1.11.5
+DTD0222	SLC25A6	Adenine nucleotide translocator 3	293	P12236	2.A.29.1.10
+DTD0025	SLC22A8	Organic anion transporter 3	9376	Q8TCC7	2.A.1.19.34
+DTD0235	SLC26A7	Anion exchange transporter	115111	Q8TE54	2.A.53.2.6
+DTD0080	SLC11A1	Natural resistance-associated macrophage protein 1	6556	P49279	2.A.55.2.3
+DTD0194	SLC25A32	Mitochondrial folate transporter/carrier	81034	Q9H2D1	2.A.29.10.2
+DTD0064	ABCD2	Adrenoleukodystrophy-like 1	225	Q9UBJ2	3.A.1.203.7
+DTD0177	SLC25A18	Mitochondrial glutamate carrier 2	83733	Q9H1K4	2.A.29.14.5
+DTD0131	SLC1A3	Excitatory amino acid transporter 1	6507	P43003	2.A.23.2.6
+DTD0355	SLC41A2	Magnesium transporter protein solute carrier family 41 member 2	84102	Q96JW4	1.A.26.2.2
+DTD0266	SLC2A8	Glucose transporter type 8	29988	Q9NY64	2.A.1.1.89
+DTD0089	SLC12A8	Cation-chloride cotransporter 9	84561	A0AV02	2.A.30.1.7
+DTD0110	SLC16A6	Monocarboxylate transporter 7	9120	O15403	2.A.1.13.15
+DTD0353	SLC40A1	Iron-regulated transporter 1	30061	Q9NP59	2.A.100.1.4
+DTD0057	ABCC11	Multidrug resistance-associated protein 8	85320	Q96J66	3.A.1.208.13
+DTD0247	SLC29A1	Equilibrative nucleoside transporter 1	2030	Q99808	2.A.57.1.1
+DTD0133	SLC1A5	Alanine/serine/cysteine/threonine transporter 2	6510	Q15758	2.A.23.3.3
+DTD0517	ATP5E	ATP synthase subunit epsilon	514	P56381	3.A.3
+DTD0474	SLC7A7	Y+L amino acid transporter 1	9056	Q9UM01	2.A.3.8.22
+DTD0225	SLC25A8	Mitochondrial uncoupling protein 2	7351	P55851	2.A.29.3.4
+DTD0226	SLC25A9	Mitochondrial uncoupling protein 3	7352	P55916	2.A.29.3.5
+DTD0178	SLC25A19	Mitochondrial thiamine pyrophosphate carrier	60386	Q9HC21	2.A.29.16.1
+DTD0433	SLC62A1	Progressive ankylosis protein homolog	56172	Q9HCJ1	2.A.66.9.1
+DTD0344	SLC39A3	Zrt- and Irt-like protein 3	29985	Q9BRY0	2.A.5.3.3
+DTD0081	SLC11A2	Natural resistance-associated macrophage protein 2	4891	P49281	2.A.55.2.1
+DTD0481	SLC9A1	Sodium/hydrogen exchanger 1	6548	P19634	2.A.36.1.13
+DTD0101	SLC16A10	Monocarboxylate transporter 10	117247	Q8TF71	2.A.1.13.8
+DTD0377	SLC49A2	Feline leukemia virus subgroup C receptor-related protein 2	55640	Q9UPI3	2.A.1.28.4
+DTD0534	CACNA1C	Voltage-gated calcium channel alpha Cav1.2	775	Q13936	1.A.1.11.4
+DTD0135	SLC1A7	Excitatory amino acid transporter 5	6512	O00341	2.A.23.2.5
+DTD0126	SLC19A1	Folate transporter 1	6573	P41440	2.A.48.1.1
+DTD0254	SLC2A12	Glucose transporter type 12	154091	Q8TD20	2.A.1.1.87
+DTD0535	CACNB2	Voltage-dependent L-type calcium channel beta-2	783	Q08289	8.A.22.1.2
+DTD0519	CACNA1B	Voltage-gated calcium channel alpha Cav2.2	774	Q00975	1.A.1
+DTD0464	SLC7A11	Cystine/glutamate transporter	23657	Q9UPY5	2.A.3.8.18
+DTD0451	SLC6A19	Sodium-dependent neutral amino acid transporter B(0)AT1	340024	Q695T7	2.A.22.6.3
+DTD0052	ABCB6	ATP-binding cassette sub-family B member 6	10058	Q9NP58	3.A.1.210.6
+DTD0483	SLC9A3	Sodium/hydrogen exchanger 3	6550	P48764	2.A.36.1.15
+DTD0477	SLC8A1	Sodium/calcium exchanger 1	6546	P32418	2.A.19.3.4
+DTD0105	SLC16A14	Monocarboxylate transporter 14	151473	Q7RTX9	2.A.1.13.12

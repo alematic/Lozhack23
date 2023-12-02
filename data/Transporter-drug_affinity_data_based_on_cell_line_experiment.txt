@@ -1,0 +1,592 @@
+TransporterID	Protein_Name_generally	DrugID	Drug_Name	Km (microM)	Cell System
+DTD0001	Multidrug resistance-associated protein 1	DR00082	Methotrexate	930	Breast carcinoma cell line (MCF7)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00170	Epirubicin	0.097	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00039	Glutathione	5000	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00067	Aminohippuric acid	372	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00208	Estradiol-17beta-glucuronide	1.5	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00208	Estradiol-17beta-glucuronide	2.5	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00019	Estrone sulfate	0.73	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00019	Estrone sulfate	2.1	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00344	Fluo-3	12	Human cervical cancer cell line (Hela)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00319	Citalopram	1.99	Human embryonic kidney cells (HEK293)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00082	Methotrexate	2150	Human embryonic kidney cells (HEK293)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00208	Estradiol-17beta-glucuronide	1.5	Human embryonic kidney cells (HEK293)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00019	Estrone sulfate	4.2	Human embryonic kidney cells (HEK293)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00313	Cefadroxil	3.9	Human embryonic kidney cells (HEK293)-MRP1
+DTD0001	Multidrug resistance-associated protein 1	DR00284	Daunorubicin	1.4	Human small cell lung cancer cells
+DTD0001	Multidrug resistance-associated protein 1	DR00082	Methotrexate	2150	NIH3T3-MRP1
+DTD0002	Multidrug resistance-associated protein 2	DR00112	Irinotecan	48.9	Bile canalicular membrane vesicles-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00161	SN-38	180	Bile canalicular membrane vesicles-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00082	Methotrexate	480	Human embryonic kidney cells (HEK293)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00067	Aminohippuric acid	880	Human embryonic kidney cells (HEK293)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00252	Bilirubin	0.7	Human embryonic kidney cells (HEK293)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00252	Bilirubin	0.9	Human embryonic kidney cells (HEK293)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00208	Estradiol-17beta-glucuronide	7.2	Human embryonic kidney cells (HEK293)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00347	Olmesartan medoxomil	14.9	LLC-PK1 cells-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00071	Valsartan	30.4	LLC-PK1 cells-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00162	Etoposide	617	Madin-Darby canine kidney cells (MDCKII)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00112	Irinotecan	90.8	Madin-Darby canine kidney cells (MDCKII)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00308	Vinblastine	137.3	Madin-Darby canine kidney cells (MDCKII)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00067	Aminohippuric acid	2100	Madin-Darby canine kidney cells (MDCKII)-MRP2
+DTD0002	Multidrug resistance-associated protein 2	DR00067	Aminohippuric acid	5000	Spodoptera frugiperda (Sf9) cells-MRP2
+DTD0003	P-glycoprotein 1	DR00502	Chlorpromazine	27.4	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00474	Clozapine	58	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00426	Haloperidol	33	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00462	Olanzapine	8.3	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00855	Quetiapine	12.3	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00384	Risperidone	12.4	Baculovirus-infected insect cells-MDR1
+DTD0003	P-glycoprotein 1	DR00342	Paclitaxel	0.014	Breast carcinoma cell line (MCF7)-MDR1
+DTD0003	P-glycoprotein 1	DR00135	Colchicine	1.33	CEM/VLB100 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00429	Losartan	100	Chinese hamster ovary AA8 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00281	Progesterone	30	Chinese hamster ovary AA8 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00054	Quinine	10	Chinese hamster ovary AA8 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	0.8	Chinese hamster ovary AA8 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00334	Valinomycin	1	Chinese hamster ovary AA8 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00448	Cyclosporine	0.17	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00284	Daunorubicin	1.74	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00999	Diazepam	72.4	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00148	Digoxin	25.9	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00171	Loperamide	13.8	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00281	Progesterone	53.6	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00054	Quinine	5.42	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00264	Verapamil	4.06	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	5.71	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00693	Prazosin	20	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00299	Indinavir	0.47	High five cells-MDR1
+DTD0003	P-glycoprotein 1	DR00135	Colchicine	1640	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00448	Cyclosporine	3.8	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00148	Digoxin	73	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00148	Digoxin	177	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00162	Etoposide	461	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00026	Fexofenadine	150	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00638	Grepafloxacin	580	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00112	Irinotecan	116.1	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00046	Levofloxacin	5600	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00429	Losartan	232	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00342	Paclitaxel	16.5	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00342	Paclitaxel	65	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00309	Saquinavir	15.4	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00044	Topotecan	78.3	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	19	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	89.2	Human enterocyte-like 2 cells (Caco-2)-MDR1
+DTD0003	P-glycoprotein 1	DR00135	Colchicine	45	KB-V1 cells-overexpress MDR1
+DTD0003	P-glycoprotein 1	DR00301	Doxorubicin	3	KB-V1 cells-overexpress MDR1
+DTD0003	P-glycoprotein 1	DR00448	Cyclosporine	8.4	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00046	Levofloxacin	3000	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00250	Oseltamivir	4.2	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	99.4	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00332	Ritonavir	0.8	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00309	Saquinavir	14.5	LLC-PK1 cells-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	253	Madin-Darby canine kidney (MDCK) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00257	Biotin	13	Madin-Darby canine kidney (MDCK) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00162	Etoposide	255	Madin-Darby canine kidney cells (MDCKII)-MDR1
+DTD0003	P-glycoprotein 1	DR00112	Irinotecan	45.5	Madin-Darby canine kidney cells (MDCKII)-MDR1
+DTD0003	P-glycoprotein 1	DR00429	Losartan	403.2	Madin-Darby canine kidney cells (MDCKII)-MDR1
+DTD0003	P-glycoprotein 1	DR00044	Topotecan	102	Madin-Darby canine kidney cells (MDCKII)-MDR1
+DTD0003	P-glycoprotein 1	DR00264	Verapamil	24	Madin-Darby canine kidney cells (MDCKII)-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	146	Oocytes-MDR1
+DTD0003	P-glycoprotein 1	DR01284	Trospium chloride	6.9	Primary human bladder urothelium cells (HBU)
+DTD0003	P-glycoprotein 1	DR00215	Dexamethasone	826	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00148	Digoxin	181	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00171	Loperamide	11.4	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00280	Nicardipine	2.6	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00342	Paclitaxel	0.7	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00342	Paclitaxel	1.4	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00264	Verapamil	2	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00264	Verapamil	4.1	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00308	Vinblastine	1.7	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00143	Vincristine	3.7	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00195	Rhodamine 123	21	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0003	P-glycoprotein 1	DR00334	Valinomycin	2.5	Spodoptera frugiperda (Sf9) cells-MDR1
+DTD0004	Breast cancer resistance protein	DR00082	Methotrexate	681	Breast carcinoma cell line (MCF7)-BCRP
+DTD0004	Breast cancer resistance protein	DR00082	Methotrexate	1340	Human embryonic kidney cells (HEK293)-BCRP
+DTD0004	Breast cancer resistance protein	DR00082	Methotrexate	1410	Human embryonic kidney cells (HEK293)-BCRP
+DTD0004	Breast cancer resistance protein	DR00206	Pitavastatin calcium	5.73	Human embryonic kidney cells (HEK293)-BCRP
+DTD0004	Breast cancer resistance protein	DR00223	Rosuvastatin	2.02	Human embryonic kidney cells (HEK293)-BCRP
+DTD0004	Breast cancer resistance protein	DR00208	Estradiol-17beta-glucuronide	44.2	Human embryonic kidney cells (HEK293)-BCRP
+DTD0004	Breast cancer resistance protein	DR00161	SN-38	4	Human lung carcinoma cells (PC-6/SN2-5H)-BCRP
+DTD0004	Breast cancer resistance protein	DR00223	Rosuvastatin	10.1	Madin-Darby canine kidney cells (MDCKII)-BCRP
+DTD0004	Breast cancer resistance protein	DR00044	Topotecan	213	Madin-Darby canine kidney cells (MDCKII)-BCRP
+DTD0004	Breast cancer resistance protein	DR00019	Estrone sulfate	16.6	Mouse lymphoma cells (P388)-BCRP
+DTD0004	Breast cancer resistance protein	DR00019	Estrone sulfate	6.8	Myelogenous leukemia cells (K562)-BCRP
+DTD0004	Breast cancer resistance protein	DR00284	Daunorubicin	2.5	Spodoptera frugiperda (Sf9) cells-BCRP
+DTD0004	Breast cancer resistance protein	DR00301	Doxorubicin	5	Spodoptera frugiperda (Sf9) cells-BCRP
+DTD0004	Breast cancer resistance protein	DR00269	Mitoxantrone	7	Spodoptera frugiperda (Sf9) cells-BCRP
+DTD0004	Breast cancer resistance protein	DR00201	Sulfasalazine	0.7	Spodoptera frugiperda (Sf9) cells-BCRP
+DTD0004	Breast cancer resistance protein	DR00336	Hematoporphyrin	17.8	Spodoptera frugiperda (Sf9) cells-BCRP
+DTD0005	Organic anion transporter 2	DR00272	Bumetanide	7.52	Oocytes-OAT2
+DTD0005	Organic anion transporter 2	DR00050	Erythromycin	18.5	Oocytes-OAT2
+DTD0005	Organic anion transporter 2	DR00153	Fluorouracil	0.0538	Oocytes-OAT2
+DTD0005	Organic anion transporter 2	DR00342	Paclitaxel	0.1428	Oocytes-OAT2
+DTD0005	Organic anion transporter 2	DR00191	Theophylline	12.6	Oocytes-OAT2
+DTD0005	Organic anion transporter 2	DR00102	Dinoprostone	0.713	Proximal tubule (S2) cells-OAT2
+DTD0005	Organic anion transporter 2	DR00127	Tetracycline	439.9	Proximal tubule (S2) cells-OAT2
+DTD0005	Organic anion transporter 2	DR00296	Zidovudine	26.8	Proximal tubule (S2) cells-OAT2
+DTD0005	Organic anion transporter 2	DR00007	Prostaglandin f2Alpha	0.425	Proximal tubule (S2) cells-OAT2
+DTD0006	Organic cation transporter 2	DR00133	Metformin	680	Human cervical cancer cell line (Hela)-OCT2
+DTD0006	Organic cation transporter 2	DR00040	Amantadine	27	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00207	Amiloride	95	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00037	Cimetidine	60	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00037	Cimetidine	72.6	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00283	Dopamine	330	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00283	Dopamine	1400	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00081	Ergotidine	940	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00278	Famotidine	56.1	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00023	Memantine	34	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00133	Metformin	990	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00133	Metformin	1072	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00133	Metformin	3171	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00133	Metformin	3356	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00268	Norepinephrine	1500	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00163	Ranitidine	65.2	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00237	Varenicline	370	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00189	Serotonin	290	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00106	Tetraethylammonium	63	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00106	Tetraethylammonium	431	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00110	YM155	2.67	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00337	N-methylpyridinium	16	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00337	N-methylpyridinium	19.5	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00337	N-methylpyridinium	19.5	Human embryonic kidney cells (HEK293)-OCT2
+DTD0006	Organic cation transporter 2	DR00040	Amantadine	27	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00283	Dopamine	390	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00081	Ergotidine	1300	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00116	Lamivudine	46.3	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00023	Memantine	34	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00268	Norepinephrine	1900	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00054	Quinine	2.6	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00121	Choline	102	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00121	Choline	210	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00189	Serotonin	80	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00106	Tetraethylammonium	33.8	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00106	Tetraethylammonium	31	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00106	Tetraethylammonium	76	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00337	N-methylpyridinium	19	Oocytes-OCT2
+DTD0006	Organic cation transporter 2	DR00102	Dinoprostone	0.0289	Proximal tubule (S2) cells-OCT2
+DTD0006	Organic cation transporter 2	DR00007	Prostaglandin f2Alpha	0.344	Proximal tubule (S2) cells-OCT2
+DTD0007	Multidrug and toxin extrusion protein 1	DR00133	Metformin	202	Human cervical cancer cell line (Hela)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00325	Acyclovir	2640	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00037	Cimetidine	170	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00027	Ganciclovir	5120	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00133	Metformin	227	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00133	Metformin	780	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00292	Procainamide	1230	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00044	Topotecan	70	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00019	Estrone sulfate	470	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00002	Paraquat	169	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00106	Tetraethylammonium	220	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00106	Tetraethylammonium	380	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00337	N-methylpyridinium	16	Human embryonic kidney cells (HEK293)-MATE1
+DTD0007	Multidrug and toxin extrusion protein 1	DR00337	N-methylpyridinium	100	Human embryonic kidney cells (HEK293)-MATE1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00288	Bosentan	44	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00124	Fluvastatin	1.4	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00124	Fluvastatin	3.5	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00071	Valsartan	17.8	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00208	Estradiol-17beta-glucuronide	5.4	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00208	Estradiol-17beta-glucuronide	5.9	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	0.23	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	2.4	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00344	Fluo-3	2.3	Chinese hamster ovary (CHO) cells-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00196	Rifampicin	1.5	Human cervical cancer cell line (Hela)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00223	Rosuvastatin	4	Human cervical cancer cell line (Hela)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00223	Rosuvastatin	7.3	Human cervical cancer cell line (Hela)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00030	Atorvastatin	0.77	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00030	Atorvastatin	12.4	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00030	Atorvastatin	18.9	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR01322	Cilostazol	17.7	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00856	Mesalazine	55.1	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00347	Olmesartan medoxomil	12.8	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00206	Pitavastatin calcium	3	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00206	Pitavastatin calcium	4.8	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00045	Pravastatin	33.7	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00045	Pravastatin	85.7	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00223	Rosuvastatin	0.8	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00071	Valsartan	1.39	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00252	Bilirubin	0.1	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00252	Bilirubin	0.28	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00305	Bromsulphthalein	0.14	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00208	Estradiol-17beta-glucuronide	2.5	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00208	Estradiol-17beta-glucuronide	8.29	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	12.5	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	0.46	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	0.0675	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	7	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR01121	Taurocholic acid	33.8	Human embryonic kidney cells (HEK293)-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00124	Fluvastatin	31.1	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00107	Levothyroxine	3	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00173	Liothyronine	2.7	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00347	Olmesartan medoxomil	42.6	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00206	Pitavastatin calcium	3.6	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00206	Pitavastatin calcium	6.7	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00045	Pravastatin	57.5	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00196	Rifampicin	13	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00223	Rosuvastatin	8.5	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00252	Bilirubin	0.0076	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00305	Bromsulphthalein	0.3	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	0.094	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR00019	Estrone sulfate	5.34	Oocytes-OATP1B1
+DTD0008	Organic anion transporting polypeptide 1B1	DR01121	Taurocholic acid	13.6	Oocytes-OATP1B1
+DTD0009	Organic cation transporter 3	DR00133	Metformin	2260	Chinese hamster ovary (CHO) cells-OCT3
+DTD0009	Organic cation transporter 3	DR00028	Etilefrine	2800	Chinese hamster ovary (CHO) cells-OCT3
+DTD0009	Organic cation transporter 3	DR00081	Ergotidine	180	Human embryonic kidney cells (HEK293)-OCT3
+DTD0009	Organic cation transporter 3	DR00081	Ergotidine	220	Human embryonic kidney cells (HEK293)-OCT3
+DTD0009	Organic cation transporter 3	DR00268	Norepinephrine	510	Human embryonic kidney cells (HEK293)-OCT3
+DTD0009	Organic cation transporter 3	DR00268	Norepinephrine	2630	Human embryonic kidney cells (HEK293)-OCT3
+DTD0009	Organic cation transporter 3	DR00076	Epinephrine	240	Human embryonic kidney cells (HEK293)-OCT3
+DTD0009	Organic cation transporter 3	DR00337	N-methylpyridinium	47	Human retinal pigment epithelial (HRPE) cells-OCT3
+DTD0010	Organic cation transporter 1	DR00133	Metformin	2160	Chinese hamster ovary (CHO) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00085	Pentamidine	36.4	Chinese hamster ovary (CHO) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00370	Antiparasitics	6.1	Chinese hamster ovary (CHO) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00106	Tetraethylammonium	229	Human cervical cancer cell line (Hela)-OCT1
+DTD0010	Organic cation transporter 1	DR00277	Ipratropium	9	Human embryonic kidney cells (HEK293)-OCT1
+DTD0010	Organic cation transporter 1	DR00133	Metformin	1060	Human embryonic kidney cells (HEK293)-OCT1
+DTD0010	Organic cation transporter 1	DR00133	Metformin	1470	Human embryonic kidney cells (HEK293)-OCT1
+DTD0010	Organic cation transporter 1	DR00133	Metformin	5450	Human embryonic kidney cells (HEK293)-OCT1
+DTD0010	Organic cation transporter 1	DR00110	YM155	22.1	Human embryonic kidney cells (HEK293)-OCT1
+DTD0010	Organic cation transporter 1	DR00337	N-methylpyridinium	21	Madin-Darby canine kidney cells (MDCKII)-OCT1
+DTD0010	Organic cation transporter 1	DR00163	Ranitidine	70	Oocytes-OCT1
+DTD0010	Organic cation transporter 1	DR00337	N-methylpyridinium	14.6	Oocytes-OCT1
+DTD0010	Organic cation transporter 1	DR01284	Trospium chloride	106	Primary human bladder urothelium cells (HBU)
+DTD0010	Organic cation transporter 1	DR00325	Acyclovir	151.2	Proximal tubule (S2) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00102	Dinoprostone	0.657	Proximal tubule (S2) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00027	Ganciclovir	516.2	Proximal tubule (S2) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00106	Tetraethylammonium	566	Proximal tubule (S2) cells-OCT1
+DTD0010	Organic cation transporter 1	DR00007	Prostaglandin f2Alpha	0.477	Proximal tubule (S2) cells-OCT1
+DTD0012	Multidrug resistance-associated protein 3	DR00082	Methotrexate	910	Breast carcinoma cell line (MCF7)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00134	Folic acid	1960	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00238	Leucovorin	1740	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00082	Methotrexate	620	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00082	Methotrexate	776	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00208	Estradiol-17beta-glucuronide	25.6	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00208	Estradiol-17beta-glucuronide	29	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00053	Sodium taurocholate	30	Human embryonic kidney cells (HEK293)-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00162	Etoposide	11.4	Spodoptera frugiperda (Sf9) cells-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00208	Estradiol-17beta-glucuronide	17.7	Spodoptera frugiperda (Sf9) cells-MRP3
+DTD0012	Multidrug resistance-associated protein 3	DR00313	Cefadroxil	2.5	Spodoptera frugiperda 21 (Sf21) cells-MRP3
+DTD0014	Bile salt export pump	DR01121	Taurocholic acid	4.25	High five cells-BSEP
+DTD0014	Bile salt export pump	DR00045	Pravastatin	124	Human embryonic kidney cells (HEK293)-BSEP
+DTD0014	Bile salt export pump	DR00053	Sodium taurocholate	4.64	Human embryonic kidney cells (HEK293)-BSEP
+DTD0014	Bile salt export pump	DR00053	Sodium taurocholate	15	Spodoptera frugiperda (Sf9) cells-BSEP
+DTD0015	Multidrug resistance-associated protein 4	DR00577	Cefazolin	81	Human embryonic kidney cells (HEK293)-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00320	Ceftizoxime	18	Human embryonic kidney cells (HEK293)-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00082	Methotrexate	220	Human embryonic kidney cells (HEK293)-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00044	Topotecan	1.66	Human liver cancer cells (HepG2)-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00347	Olmesartan medoxomil	26.2	LLC-PK1 cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00210	Alprostadil	2.1	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00102	Dinoprostone	3.4	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00134	Folic acid	170	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00238	Leucovorin	640	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00082	Methotrexate	220	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00082	Methotrexate	1300	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00067	Aminohippuric acid	160	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00295	Cyclic adenosine monophosphate	44.5	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00208	Estradiol-17beta-glucuronide	30.3	Spodoptera frugiperda (Sf9) cells-MRP4
+DTD0015	Multidrug resistance-associated protein 4	DR00313	Cefadroxil	0.25	Spodoptera frugiperda 21 (Sf21) cells-MRP4
+DTD0016	Multidrug resistance-associated protein 5	DR00295	Cyclic adenosine monophosphate	379	Chinese hamster V79 cells (V79)-MRP5
+DTD0016	Multidrug resistance-associated protein 5	DR00134	Folic acid	1000	Human embryonic kidney cells (HEK293)-MRP5
+DTD0016	Multidrug resistance-associated protein 5	DR00082	Methotrexate	1174	Human embryonic kidney cells (HEK293)-MRP5
+DTD0016	Multidrug resistance-associated protein 5	DR00082	Methotrexate	1200	Human embryonic kidney cells (HEK293)-MRP5
+DTD0016	Multidrug resistance-associated protein 5	DR00318	Pemetrexed	281	Human embryonic kidney cells (HEK293)-MRP5
+DTD0016	Multidrug resistance-associated protein 5	DR00365	Carboxydichlorofluorescein	11.6	Human embryonic kidney cells (HEK293)-MRP5
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00223	Rosuvastatin	65	Human cervical cancer cell line (Hela)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00019	Estrone sulfate	27	Human cervical cancer cell line (Hela)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00053	Sodium taurocholate	7.5	Human cervical cancer cell line (Hela)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00053	Sodium taurocholate	7.9	Human cervical cancer cell line (Hela)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR01121	Taurocholic acid	7.9	Human cervical cancer cell line (Hela)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00053	Sodium taurocholate	2.1	Human embryonic kidney cells (HEK293)-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR00206	Pitavastatin calcium	15.1	Oocytes-NTCP
+DTD0019	Sodium/taurocholate cotransporting polypeptide	DR01121	Taurocholic acid	6.2	Oocytes-NTCP
+DTD0020	Apical sodium-dependent bile acid transporter	DR00053	Sodium taurocholate	9.4	Human embryonic kidney cells (HEK293)-ASBT
+DTD0020	Apical sodium-dependent bile acid transporter	DR01121	Taurocholic acid	9.4	Human embryonic kidney cells (HEK293)-ASBT
+DTD0020	Apical sodium-dependent bile acid transporter	DR00053	Sodium taurocholate	13.3	Monkey kidney fibroblast-like cell (COS)1-ASBT
+DTD0020	Apical sodium-dependent bile acid transporter	DR01121	Taurocholic acid	13.3	Monkey kidney fibroblast-like cell (COS)1-ASBT
+DTD0020	Apical sodium-dependent bile acid transporter	DR00053	Sodium taurocholate	16	Monkey kidney fibroblast-like cell (COS)7-ASBT
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	1640	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	2200	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	2700	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	5400	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	6600	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	7400	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	2.2	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	7.4	Chinese hamster ovary (CHO) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00313	Cefadroxil	7.97	Human cervical cancer cell line (Hela)-PEPT1
+DTD0021	Peptide transporter 1	DR00250	Oseltamivir	8590	Human cervical cancer cell line (Hela)-PEPT1
+DTD0021	Peptide transporter 1	DR00275	Bestatin	340	Human enterocyte-like 2 cells (Caco-2)-PEPT1
+DTD0021	Peptide transporter 1	DR00330	Cephalexin	7.97	Human enterocyte-like 2 cells (Caco-2)-PEPT1
+DTD0021	Peptide transporter 1	DR00250	Oseltamivir	6540	Human enterocyte-like 2 cells (Caco-2)-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	292	Human enterocyte-like 2 cells (Caco-2)-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	3.8	Madin-Darby canine kidney (MDCK) cells-PEPT1
+DTD0021	Peptide transporter 1	DR00057	Aminolevulinic acid	394	Oocytes-PEPT1
+DTD0021	Peptide transporter 1	DR00057	Aminolevulinic acid	1600	Oocytes-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	5940	Oocytes-PEPT1
+DTD0021	Peptide transporter 1	DR00078	Valacyclovir	5.9	Xenopus oocytes-PEPT1
+DTD0022	Peptide transporter 2	DR00313	Cefadroxil	150.8	In vivo model (human)
+DTD0022	Peptide transporter 2	DR00190	Amoxicillin	1040	Madin-Darby canine kidney (MDCK) cells-PEPT2
+DTD0022	Peptide transporter 2	DR00259	Cefaclor	72	Madin-Darby canine kidney (MDCK) cells-PEPT2
+DTD0022	Peptide transporter 2	DR00057	Aminolevulinic acid	227	Oocytes-PEPT2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	3.5	Human cervical cancer cell line (Hela)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00277	Ipratropium	53	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	2.66	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	4.3	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	10.9	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00150	Acetyl-l-carnitine	8.5	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00350	D-carnitine	10.9	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR01232	Acetylcarnitine	8.5	Human embryonic kidney cells (HEK293)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	14.07	Human enterocyte-like 2 cells (Caco-2)-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	4.8	Oocytes-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00350	D-carnitine	98.3	Oocytes-OCTN2
+DTD0023	Organic cation/carnitine transporter 2	DR00255	L-carnitine	54	Rat brain endothelial cells-OCTN2
+DTD0024	Organic anion transporter 1	DR00015	Adefovir	23.8	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00066	Cidofovir	30	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00066	Cidofovir	58	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00174	Tenofovir	33.8	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00343	6-Carboxyfluorescein	3.93	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	15.4	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00083	Glutarate	10.7	Chinese hamster ovary (CHO) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	5	Human cervical cancer cell line (Hela)-OAT1
+DTD0024	Organic anion transporter 1	DR00091	Dimesna	636	Human cervical cancer cell line (Hela)-OAT1
+DTD0024	Organic anion transporter 1	DR00325	Acyclovir	839	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00101	Edaravone	10.8	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00347	Olmesartan medoxomil	0.0683	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	20	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	28	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00172	Uric acid	197.6	Human embryonic kidney cells (HEK293)-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	8.5	Madin-Darby canine kidney (MDCK) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	8.9	Monkey kidney fibroblast-like cell (COS)7-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	22	OK cells-OAT1
+DTD0024	Organic anion transporter 1	DR00015	Adefovir	30	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00066	Cidofovir	46	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00082	Methotrexate	724	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	3.9	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	4	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	9.3	Oocytes-OAT1
+DTD0024	Organic anion transporter 1	DR00325	Acyclovir	342	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00102	Dinoprostone	0.97	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00027	Ganciclovir	896	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00082	Methotrexate	554	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00296	Zidovudine	45.9	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00067	Aminohippuric acid	20.1	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00229	Ochratoxin A	0.42	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00172	Uric acid	947	Proximal tubule (S2) cells-OAT1
+DTD0024	Organic anion transporter 1	DR00007	Prostaglandin f2Alpha	0.575	Proximal tubule (S2) cells-OAT1
+DTD0025	Organic anion transporter 3	DR00015	Adefovir	1220	BHK-21 cells-OAT3
+DTD0025	Organic anion transporter 3	DR00174	Tenofovir	770	BHK-21 cells-OAT3
+DTD0025	Organic anion transporter 3	DR00037	Cimetidine	174	Chinese hamster ovary (CHO) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00254	Sitagliptin	162	Chinese hamster ovary (CHO) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00091	Dimesna	390	Human cervical cancer cell line (Hela)-OAT3
+DTD0025	Organic anion transporter 3	DR00037	Cimetidine	113	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00037	Cimetidine	149	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00278	Famotidine	124	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00101	Edaravone	15.1	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00347	Olmesartan medoxomil	0.12	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00163	Ranitidine	234	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	6.3	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	17	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00172	Uric acid	380.3	Human embryonic kidney cells (HEK293)-OAT3
+DTD0025	Organic anion transporter 3	DR00325	Acyclovir	772	Human embryonic kidney cells (HEK293)-OCT2
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	2.18	Monkey kidney fibroblast-like cell (COS)7-OAT3
+DTD0025	Organic anion transporter 3	DR00037	Cimetidine	57.4	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00082	Methotrexate	10.9	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00082	Methotrexate	17.2	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00082	Methotrexate	21.1	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00206	Pitavastatin calcium	3.3	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00223	Rosuvastatin	7.4	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00067	Aminohippuric acid	87.2	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	3.1	Oocytes-OAT3
+DTD0025	Organic anion transporter 3	DR00272	Bumetanide	1586	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00102	Dinoprostone	0.345	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00082	Methotrexate	21.1	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00045	Pravastatin	27.2	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00127	Tetracycline	566.2	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00296	Zidovudine	145	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	2.21	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00019	Estrone sulfate	7.5	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00229	Ochratoxin A	0.75	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00007	Prostaglandin f2Alpha	1.092	Proximal tubule (S2) cells-OAT3
+DTD0025	Organic anion transporter 3	DR00078	Valacyclovir	57.9	Proximal tubule (S2) cells-OAT3
+DTD0026	Organic anion transporter 4	DR00172	Uric acid	106	Human embryonic kidney cells (HEK293)-OAT4
+DTD0026	Organic anion transporter 4	DR00019	Estrone sulfate	1.01	Oocytes-OAT4
+DTD0026	Organic anion transporter 4	DR00272	Bumetanide	306	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00102	Dinoprostone	0.154	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00082	Methotrexate	17.8	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00045	Pravastatin	257	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00127	Tetracycline	122.7	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00296	Zidovudine	152	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00019	Estrone sulfate	9.9	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00229	Ochratoxin A	22.9	Proximal tubule (S2) cells-OAT4
+DTD0026	Organic anion transporter 4	DR00007	Prostaglandin f2Alpha	0.692	Proximal tubule (S2) cells-OAT4
+DTD0027	Urate anion exchanger 1	DR00172	Uric acid	357.6	Oocytes-URAT1
+DTD0027	Urate anion exchanger 1	DR00123	Oxypurinol	794	Oocytes-URAT1
+DTD0028	Multidrug and toxin extrusion protein 2	DR00325	Acyclovir	4320	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00037	Cimetidine	120	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00037	Cimetidine	370	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00027	Ganciclovir	4280	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00133	Metformin	1050	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00133	Metformin	1980	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00292	Procainamide	1580	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00292	Procainamide	4100	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00044	Topotecan	60	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00019	Estrone sulfate	850	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00106	Tetraethylammonium	760	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00106	Tetraethylammonium	830	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00337	N-methylpyridinium	93.5	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0028	Multidrug and toxin extrusion protein 2	DR00337	N-methylpyridinium	110	Human embryonic kidney cells (HEK293)-MATE2K
+DTD0029	Organic anion transporting polypeptide 1A2	DR00026	Fexofenadine	6.4	Human cervical cancer cell line (Hela)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00223	Rosuvastatin	2.6	Human cervical cancer cell line (Hela)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00019	Estrone sulfate	13.6	Human embryonic kidney cells (HEK293)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00019	Estrone sulfate	16.1	Human embryonic kidney cells (HEK293)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR01121	Taurocholic acid	15.9	Human embryonic kidney cells (HEK293)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR01121	Taurocholic acid	64	Human liver cancer cells (HepG2)-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00046	Levofloxacin	136	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00107	Levothyroxine	8	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00173	Liothyronine	6.5	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00082	Methotrexate	457	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00155	Ouabain	5500	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00206	Pitavastatin calcium	3.4	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00309	Saquinavir	36.4	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00305	Bromsulphthalein	20	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00019	Estrone sulfate	9.6	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00019	Estrone sulfate	59	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR00053	Sodium taurocholate	60	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR01121	Taurocholic acid	60	Oocytes-OATP1A2
+DTD0029	Organic anion transporting polypeptide 1A2	DR01284	Trospium chloride	34.9	Primary human bladder urothelium cells (HBU)
+DTD0030	Organic anion transporting polypeptide 1B3	DR00288	Bosentan	141	Chinese hamster ovary (CHO) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00071	Valsartan	23.5	Chinese hamster ovary (CHO) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00208	Estradiol-17beta-glucuronide	15.8	Chinese hamster ovary (CHO) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00019	Estrone sulfate	58	Chinese hamster ovary (CHO) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00344	Fluo-3	3.1	Chinese hamster ovary (CHO) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00223	Rosuvastatin	9.8	Human cervical cancer cell line (Hela)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00030	Atorvastatin	0.73	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR01322	Cilostazol	2.7	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00026	Fexofenadine	108	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00856	Mesalazine	77.4	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00347	Olmesartan medoxomil	44.2	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00206	Pitavastatin calcium	3.25	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00223	Rosuvastatin	14.2	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00248	Telmisartan	0.81	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00248	Telmisartan	3.4	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00071	Valsartan	18.2	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00252	Bilirubin	0.5	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00305	Bromsulphthalein	3.3	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00208	Estradiol-17beta-glucuronide	24.6	Human embryonic kidney cells (HEK293)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00082	Methotrexate	39.4	Madin-Darby canine kidney (MDCK) cells-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00124	Fluvastatin	7	Madin-Darby canine kidney cells (MDCKII)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00364	Amanitin	3.7	Madin-Darby canine kidney cells (MDCKII)-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00173	Liothyronine	6.4	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00082	Methotrexate	24.7	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00347	Olmesartan medoxomil	71.8	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00342	Paclitaxel	6.79	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00206	Pitavastatin calcium	3.8	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00196	Rifampicin	2.3	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00252	Bilirubin	0.0391	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00305	Bromsulphthalein	0.4	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00213	Sincalide	11.1	Oocytes-OATP1B3
+DTD0030	Organic anion transporting polypeptide 1B3	DR00053	Sodium taurocholate	5.8	Oocytes-OATP1B3
+DTD0031	Organic anion transporting polypeptide 2B1	DR00288	Bosentan	202	Chinese hamster ovary (CHO) cells-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00223	Rosuvastatin	2.4	Human cervical cancer cell line (Hela)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00030	Atorvastatin	2.84	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00124	Fluvastatin	0.75	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00094	Glibenclamide	6.26	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00856	Mesalazine	188.9	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00206	Pitavastatin calcium	1.17	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00045	Pravastatin	2250	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00223	Rosuvastatin	6.42	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00248	Telmisartan	1.09	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	1.56	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	7.14	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	8.09	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	10.2	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	12.5	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	13.1	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	20.9	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	38.24	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00053	Sodium taurocholate	71.8	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR01121	Taurocholic acid	71.8	Human embryonic kidney cells (HEK293)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	1.81	Human enterocyte-like 2 cells (Caco-2)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00030	Atorvastatin	0.2	Madin-Darby canine kidney cells (MDCKII)-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00305	Bromsulphthalein	0.7	Oocytes-OATP2B1
+DTD0031	Organic anion transporting polypeptide 2B1	DR00019	Estrone sulfate	6.3	Oocytes-OATP2B1
+DTD0046	ATP-binding cassette sub-family A member 8	DR00067	Aminohippuric acid	5	Xenopus laevis oocytes-ABCA8
+DTD0046	ATP-binding cassette sub-family A member 8	DR00019	Estrone sulfate	0.5	Xenopus laevis oocytes-ABCA8
+DTD0046	ATP-binding cassette sub-family A member 8	DR00229	Ochratoxin A	0.4	Xenopus laevis oocytes-ABCA8
+DTD0046	ATP-binding cassette sub-family A member 8	DR00053	Sodium taurocholate	10.3	Xenopus laevis oocytes-ABCA8
+DTD0056	Multidrug resistance-associated protein 7	DR00193	Tamoxifen	0.078	LLC-PK1 cells-MRP7
+DTD0057	Multidrug resistance-associated protein 8	DR00082	Methotrexate	957	LLC-PK1 cells-MRP8
+DTD0099	Peptide transporter 4	DR00282	L-histidine	16.3	Xenopus laevis oocytes-PTR4
+DTD0099	Peptide transporter 4	DR00375	Peptides	1.69	Xenopus laevis oocytes-PTR4
+DTD0100	Monocarboxylate transporter 1	DR00293	Pyroglutamic acid	4	Oocytes-MCT1
+DTD0100	Monocarboxylate transporter 1	DR01241	Milchsaure	4	Xenopus laevis oocytes-MCT1
+DTD0107	Monocarboxylate transporter 4	DR01241	Milchsaure	28	Oocytes-MCT4
+DTD0111	Monocarboxylate transporter 2	DR01241	Milchsaure	6.5	Oocytes-MCT2
+DTD0114	Sodium-dependent phosphate transport protein 1	DR00203	Aspirin	1900	Oocytes-NPT1
+DTD0115	Sodium-dependent phosphate transport protein 3	DR00067	Aminohippuric acid	0.4	E.coli C43 (DE3) cells-NPT3
+DTD0116	Sodium-dependent phosphate transport protein 4	DR00067	Aminohippuric acid	9560	Oocytes-NPT4
+DTD0117	Probable small intestine urate exporter	DR00067	Aminohippuric acid	700	E.coli C43 (DE3) cells-hNPT homologue
+DTD0118	Vesicular H(+)/Aspartate-glutamate cotransporter	DR01243	N-acetylaspartylglutamate	200	Proteoliposomes-Sialin
+DTD0124	Vesicular acetylcholine transporter	DR00070	Acetylcholine	1000	Synaptic vesicles-VAChT
+DTD0125	MFS-type transporter SLC18B1	DR01250	Spermidine	4200	High five cells-SLC18B1
+DTD0125	MFS-type transporter SLC18B1	DR01249	Spermine	94	High five cells-SLC18B1
+DTD0126	Folate transporter 1	DR00318	Pemetrexed	0.2	Human liver cancer cells (HepG2)-FLOT1
+DTD0128	Thiamine transporter 2	DR00133	Metformin	1150	Human embryonic kidney cells-hTHTR2
+DTD0128	Thiamine transporter 2	DR00117	Vitamin B1	3.16	Human embryonic kidney cells-hTHTR2
+DTD0129	Excitatory amino acid transporter 3	DR00005	L-glutamic acid	9.9	Human embryonic kidney cells (HEK293)-EAAT3
+DTD0129	Excitatory amino acid transporter 3	DR00005	L-glutamic acid	25	Human embryonic kidney cells (HEK293)-EAAT3
+DTD0130	Excitatory amino acid transporter 2	DR00005	L-glutamic acid	21	Human embryonic kidney cells (HEK293)-EAAT2
+DTD0130	Excitatory amino acid transporter 2	DR00005	L-glutamic acid	21	Human embryonic kidney cells (HEK293)-EAAT2
+DTD0132	Alanine/serine/cysteine/threonine transporter 1	DR00047	D-serine	206	Oocytes-ASCT1
+DTD0132	Alanine/serine/cysteine/threonine transporter 1	DR00142	L-alanine	194	Rat hippocampal astrocyte-ASCT1
+DTD0132	Alanine/serine/cysteine/threonine transporter 1	DR00047	D-serine	2200	Rat hippocampal astrocyte-ASCT1
+DTD0133	Alanine/serine/cysteine/threonine transporter 2	DR00242	Glycine	320	HRPE cells-ASCT2
+DTD0133	Alanine/serine/cysteine/threonine transporter 2	DR00047	D-serine	167	Oocytes-ASCT2
+DTD0142	Fly-like putative transporter 2	DR00255	L-carnitine	20	Oocytes-FLIPT2
+DTD0145	Organic anion transporter 6	DR00019	Estrone sulfate	44.8	Chinese hamster ovary (CHO) cells-mOat6
+DTD0145	Organic anion transporter 6	DR00019	Estrone sulfate	109.8	Oocytes-mOat6
+DTD0151	Organic cation/carnitine transporter 1	DR00277	Ipratropium	444	Human embryonic kidney cells (HEK293)-OCTN1
+DTD0151	Organic cation/carnitine transporter 1	DR00106	Tetraethylammonium	436	Human embryonic kidney cells (HEK293)-OCTN1
+DTD0151	Organic cation/carnitine transporter 1	DR00106	Tetraethylammonium	1800	Human embryonic kidney cells (HEK293)-OCTN1
+DTD0151	Organic cation/carnitine transporter 1	DR00106	Tetraethylammonium	195	Oocytes-OCTN1
+DTD0152	Organic anion transporter 7	DR00045	Pravastatin	1	Vector-transfected cells-OAT7
+DTD0175	Graves disease carrier protein	DR00302	Coenzyme A	140	Yeast cells-GDC
+DTD0176	Peroxisomal membrane protein PMP34	DR00100	Adenosine monophosphate	190	Human liver cancer cells (HepG2)-PMP34
+DTD0190	Mitochondrial ornithine transporter 3	DR00188	Arginine	420	SLC25A29-reconstituted Liposomes
+DTD0190	Mitochondrial ornithine transporter 3	DR00115	Lysine	710	SLC25A29-reconstituted Liposomes
+DTD0205	Mitochondrial coenzyme A transporter SLC25A42	DR00302	Coenzyme A	71	Liposomes reconstituted with SLC25A42
+DTD0245	Concentrative nucleoside transporter 2	DR01277	Entecavir	53.2	Madin-Darby canine kidney (MDCK) cells-hCNT2
+DTD0246	Concentrative Na(+)-nucleoside cotransporter 3	DR01277	Entecavir	23.1	Madin-Darby canine kidney (MDCK) cells-hCNT3
+DTD0246	Concentrative Na(+)-nucleoside cotransporter 3	DR00176	Ribavirin	28.2	Xenopus oocytes-hCNT3 and hENT1
+DTD0247	Equilibrative nucleoside transporter 1	DR00923	Tecadenoson	24	CCRF-CEM cells-ENT1
+DTD0247	Equilibrative nucleoside transporter 1	DR00923	Tecadenoson	196	Oocytes-ENT1
+DTD0249	Equilibrative nucleoside transporter 3	DR00087	Cladribine	1860	Xenopus Oocytes-ENT3
+DTD0249	Equilibrative nucleoside transporter 3	DR00717	Cordycepin	1860	Xenopus Oocytes-ENT3
+DTD0249	Equilibrative nucleoside transporter 3	DR00718	Tubercidin	1860	Xenopus Oocytes-ENT3
+DTD0251	Glucose transporter type 1	DR00260	Dehydroascorbic acid	1100	Chinese hamster ovary (CHO) cells-GLUT1
+DTD0252	Glucose transporter type 10	DR00011	2-Deoxyglucose	300	Xenopus oocytes-GLUT10
+DTD0257	Glucose transporter type 2	DR00011	2-Deoxyglucose	1120	Human pancreatic beta cells-GLUT2
+DTD0265	Glucose transporter type 7	DR00011	2-Deoxyglucose	300	Xenopus oocytes-GLUT7
+DTD0266	Glucose transporter type 8	DR00011	2-Deoxyglucose	2000	Xenopus oocytes-GLUT8
+DTD0318	Proton-coupled amino acid transporter 1	DR00057	Aminolevulinic acid	6800	Monkey kidney fibroblast-like cell (COS)7-hPAT1
+DTD0318	Proton-coupled amino acid transporter 1	DR00270	Vigabatrin	5200	X.Laevis oocytes-hPAT1
+DTD0336	Sodium-coupled neutral amino acid transporter 9	DR00188	Arginine	39000	Human embryonic kidney cells-293T
+DTD0343	Zrt- and Irt-like protein 2	DR00068	Zinc salts	3	Human embryonic kidney cells (HEK293)-ZIP2
+DTD0346	Zrt- and Irt-like protein 5	DR00068	Zinc salts	2.1	Human embryonic kidney cells (HEK293)-ZIP5
+DTD0363	Choline transporter-like protein 1	DR00121	Choline	15	A549 and rat ATII cells
+DTD0372	Proton-coupled folate transporter	DR00318	Pemetrexed	0.2	Human liver cancer cells (HepG2)-PCFT
+DTD0372	Proton-coupled folate transporter	DR00082	Methotrexate	4.2	Model organism in vivo (rat)
+DTD0452	Sodium-dependent noradrenaline transporter	DR00268	Norepinephrine	690	Monkey kidney fibroblast-like cell (COS)1-NET
+DTD0471	L-type amino acid transporter 1	DR00217	Gabapentin	530	hCMEC/D3 cells-LAT1
+DTD0471	L-type amino acid transporter 1	DR01255	Pregabalin	288	hCMEC/D3 cells-LAT1
+DTD0471	L-type amino acid transporter 1	DR00125	Levodopa	200	Human embryonic kidney cells (HEK293)-LAT1
+DTD0475	L-type amino acid transporter 2	DR00266	L-phenylalanine	12.2	Xenopus oocytes-LAT2
+DTD0499	Organic anion transporting polypeptide 1C1	DR00107	Levothyroxine	0.0904	Chinese hamster ovary (CHO) cells-OATP1C1
+DTD0501	Organic anion transporting polypeptide 3A1	DR00210	Alprostadil	0.0485	Oocytes-OATP3A1
+DTD0502	Organic anion transporting polypeptide 4A1	DR00173	Liothyronine	0.9	Oocytes-OATP4A1
+DTD0502	Organic anion transporting polypeptide 4A1	DR01121	Taurocholic acid	14.9	Oocytes-OATP4A1
+DTD0503	Organic anion transporting polypeptide 4C1	DR00148	Digoxin	7.8	Madin-Darby canine kidney (MDCK) cells-OATP4C1
+DTD0503	Organic anion transporting polypeptide 4C1	DR00173	Liothyronine	5.9	Madin-Darby canine kidney (MDCK) cells-OATP4C1
+DTD0503	Organic anion transporting polypeptide 4C1	DR00155	Ouabain	0.38	Madin-Darby canine kidney (MDCK) cells-OATP4C1
+DTD0537	RalBP1-associated Eps domain-containing protein 2	DR00304	Sorafenib	10.4	Human kidney cancer cells (Caki-2)-RALBP1
+DTD0537	RalBP1-associated Eps domain-containing protein 2	DR00454	Sunitinib	7.2	Human kidney cancer cells (Caki-2)-RALBP1
+DTD0093	Sodium/dicarboxylate cotransporter 3	DR00139	Alpha-ketoglutaric acid	149	HEK293T cells-NADC3
+DTD0093	Sodium/dicarboxylate cotransporter 3	DR01246	Succinate	112	HEK293T cells-NADC3
+DTD0392	Organic solute transporter subunit beta	DR00019	Estrone sulfate	320	Oocytes-OSTalpha-OSTbeta
+DTD0091	Sodium/sulfate cotransporter 1	DR00060	Sulfate	93	Renal and intestinal epithelial cells
+DTD0094	Na(+)/sulfate cotransporter SUT-1	DR00060	Sulfate	0.38	Xenopus oocytes-SUT1
